@@ -99,6 +99,9 @@ function Nav() {
       <div style={{ display: "flex", alignItems: "center", gap: "2rem" }}>
         <div className="nav-links">
           <a href="#about">{t.nav.about}</a>
+          <a href="#history">{t.nav.history}</a>
+          <a href="#ecology">{t.nav.ecology}</a>
+          <a href="#culture">{t.nav.culture}</a>
           <a href="#visiting">{t.nav.visiting}</a>
           <a href="#transportation">{t.nav.transportation}</a>
           <a href="#tips">{t.nav.tips}</a>
@@ -222,21 +225,6 @@ function History() {
           </ScrollReveal>
         ))}
       </div>
-      <ScrollReveal>
-        <div style={{ marginTop: "4rem", padding: "2.5rem", background: "var(--color-deep)", borderRadius: "8px", color: "rgba(255,255,255,0.9)" }}>
-          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600, color: "var(--color-gold)", marginBottom: "1.5rem" }}>
-            {t.history.buildings.title}
-          </h3>
-          <ul style={{ display: "flex", flexDirection: "column", gap: "1rem", paddingLeft: "1.5rem", marginBottom: "2rem" }}>
-            {t.history.buildings.items.map((item: string, i: number) => (
-              <li key={i} style={{ fontSize: "0.95rem", lineHeight: "1.6" }}>{item}</li>
-            ))}
-          </ul>
-          <p style={{ fontSize: "1.05rem", lineHeight: "1.8", color: "#fff", fontStyle: "italic" }}>
-            {t.history.buildings.conclusion}
-          </p>
-        </div>
-      </ScrollReveal>
     </section>
   );
 }
@@ -264,6 +252,44 @@ function Ecology() {
   );
 }
 
+function Culture() {
+  const { t } = useLang();
+  return (
+    <section id="culture" className="section" style={{ background: "linear-gradient(180deg, var(--color-cream) 0%, #eee8dd 100%)" }}>
+      <ScrollReveal>
+        <p className="section-label">04</p>
+        <h2 className="section-title">{t.culture.title}</h2>
+        <div className="section-divider" />
+      </ScrollReveal>
+      <ScrollReveal>
+        <p className="about-text" style={{ whiteSpace: "pre-line", marginBottom: "3rem" }}>{t.culture.intro}</p>
+      </ScrollReveal>
+      <div style={{ display: "flex", flexDirection: "column", gap: "2.5rem" }}>
+        {t.culture.sections.map((sec: { subtitle: string; content: string }, i: number) => (
+          <ScrollReveal key={i}>
+            <div style={{ padding: "2rem", background: "#fff", borderRadius: "8px", borderLeft: "4px solid var(--color-teal)", boxShadow: "0 2px 12px rgba(0,0,0,0.04)" }}>
+              <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.3rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem" }}>{sec.subtitle}</h3>
+              <p style={{ fontSize: "1rem", lineHeight: "1.8", color: "var(--color-earth-soft)", whiteSpace: "pre-line" }}>{sec.content}</p>
+            </div>
+          </ScrollReveal>
+        ))}
+      </div>
+      <ScrollReveal>
+        <div style={{ marginTop: "4rem", padding: "2.5rem", background: "var(--color-deep)", borderRadius: "8px", color: "rgba(255,255,255,0.9)" }}>
+          <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600, color: "var(--color-gold)", marginBottom: "1.5rem" }}>
+            {t.culture.events.title}
+          </h3>
+          <ul style={{ display: "flex", flexDirection: "column", gap: "1rem", paddingLeft: "1.5rem", marginBottom: "2rem" }}>
+            {t.culture.events.items.map((item: string, i: number) => (
+              <li key={i} style={{ fontSize: "0.95rem", lineHeight: "1.6" }}>{item}</li>
+            ))}
+          </ul>
+        </div>
+      </ScrollReveal>
+    </section>
+  );
+}
+
 function Visiting() {
   const { t } = useLang();
   const cards = [
@@ -276,7 +302,7 @@ function Visiting() {
     <section id="visiting" style={{ background: "linear-gradient(180deg, var(--color-cream) 0%, #eee8dd 100%)" }}>
       <div className="section">
         <ScrollReveal>
-          <p className="section-label">04</p>
+          <p className="section-label">05</p>
           <h2 className="section-title">{t.visiting.title}</h2>
           <div className="section-divider" />
         </ScrollReveal>
@@ -292,11 +318,9 @@ function Visiting() {
           </div>
         </ScrollReveal>
         <ScrollReveal>
-          <div className="bring-section" style={{ marginTop: "3rem" }}>
-            <div className="bring-title">{t.visiting.animals.title}</div>
-            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-earth-soft)", background: "rgba(255,255,255,0.5)", padding: "1.5rem", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)" }}>
-              {t.visiting.animals.content}
-            </p>
+          <div style={{ marginTop: "3rem", padding: "2rem", background: "#fff", borderRadius: "8px", borderLeft: "4px solid var(--color-gold)", boxShadow: "0 2px 12px rgba(0,0,0,0.04)" }}>
+            <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.2rem", fontWeight: 600, color: "var(--color-deep)", marginBottom: "1rem" }}>{t.visiting.birds.title}</h3>
+            <p style={{ fontSize: "0.95rem", lineHeight: "1.7", color: "var(--color-earth-soft)", whiteSpace: "pre-line" }}>{t.visiting.birds.content}</p>
           </div>
         </ScrollReveal>
         <ScrollReveal>
@@ -307,6 +331,12 @@ function Visiting() {
                 <li key={i}>{item}</li>
               ))}
             </ul>
+          </div>
+        </ScrollReveal>
+        <ScrollReveal>
+          <div style={{ marginTop: "3rem", padding: "2rem", background: "var(--color-deep)", borderRadius: "8px", color: "rgba(255,255,255,0.9)" }}>
+            <h3 style={{ fontFamily: "var(--font-display)", fontSize: "1.3rem", fontWeight: 600, color: "var(--color-gold)", marginBottom: "1rem" }}>{t.visiting.route.title}</h3>
+            <p style={{ fontSize: "1rem", lineHeight: "1.8", color: "rgba(255,255,255,0.85)", whiteSpace: "pre-line" }}>{t.visiting.route.content}</p>
           </div>
         </ScrollReveal>
       </div>
@@ -320,7 +350,7 @@ function Transportation() {
   return (
     <section id="transportation" className="section">
       <ScrollReveal>
-        <p className="section-label">05</p>
+        <p className="section-label">06</p>
         <h2 className="section-title">{t.transportation.title}</h2>
         <div className="section-divider" />
       </ScrollReveal>
@@ -393,7 +423,7 @@ function Tips() {
     <section id="tips" style={{ background: "linear-gradient(180deg, var(--color-cream) 0%, #e8e2d6 100%)" }}>
       <div className="section">
         <ScrollReveal>
-          <p className="section-label">06</p>
+          <p className="section-label">07</p>
           <h2 className="section-title">{t.tips.title}</h2>
           <div className="section-divider" />
         </ScrollReveal>
@@ -432,7 +462,7 @@ function Gallery() {
   return (
     <section id="gallery" className="section">
       <ScrollReveal>
-        <p className="section-label">07</p>
+        <p className="section-label">08</p>
         <h2 className="section-title">{t.gallery.title}</h2>
         <div className="section-divider" />
       </ScrollReveal>
@@ -473,7 +503,7 @@ function Reviews() {
   return (
     <section id="reviews" className="section">
       <ScrollReveal>
-        <p className="section-label">08</p>
+        <p className="section-label">09</p>
         <h2 className="section-title">{t.reviews.title}</h2>
         <p className="section-subtitle">{t.reviews.subtitle}</p>
         <div className="section-divider" />
@@ -527,8 +557,8 @@ function FAQ() {
     <section id="faq" className="section">
       <div className="section">
         <ScrollReveal>
-          <p className="section-label">09</p>
-          <h2 className="section-title">{t.faq.title}</h2>
+        <p className="section-label">10</p>
+        <h2 className="section-title">{t.faq.title}</h2>
           <p className="section-subtitle">{t.faq.subtitle}</p>
           <div className="section-divider" />
         </ScrollReveal>
@@ -574,7 +604,7 @@ function Location() {
   return (
     <section id="location" className="section">
       <ScrollReveal>
-        <p className="section-label">10</p>
+        <p className="section-label">11</p>
         <h2 className="section-title">{t.location.title}</h2>
         <div className="section-divider" />
       </ScrollReveal>
@@ -649,6 +679,7 @@ export default function Home(props: { params: Promise<{ locale: string }> }) {
       <About />
       <History />
       <Ecology />
+      <Culture />
       <Visiting />
       <Transportation />
       <Tips />
