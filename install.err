@@ -1,6 +1,0 @@
-npm error code ENOTEMPTY
-npm error syscall rmdir
-npm error path H:\GitHub\plazabaquerizo\node_modules\es-abstract\2015
-npm error errno -4051
-npm error ENOTEMPTY: directory not empty, rmdir 'H:\GitHub\plazabaquerizo\node_modules\es-abstract\2015'
-npm error A complete log of this run can be found in: C:\Users\dcc\AppData\Local\npm-cache\_logs\2026-09-26T04_01_52_044Z-debug-0.log
