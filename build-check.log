@@ -1,0 +1,63 @@
+▲ Next.js 16.3.6 (webpack)
+✓ Running next.config.ts took 40ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 17.6s
+  Running TypeScript ...
+.next/types/app/[locale]/layout.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/[locale]/layout.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/[locale]/page.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/[locale]/page.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/cookies/page.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/cookies/page.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/layout.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/layout.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/page.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/page.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/privacy/page.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/privacy/page.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/app/terms/page.ts(3,59): error TS7016: Could not find a declaration file for module 'next/dist/lib/metadata/types/metadata-interface.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/lib/metadata/types/metadata-interface.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/lib/metadata/types/metadata-interface.js';`
+.next/types/app/terms/page.ts(5,66): error TS7016: Could not find a declaration file for module 'next/dist/build/segment-config/app/app-segment-config.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/build/segment-config/app/app-segment-config.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/dist/build/segment-config/app/app-segment-config.js';`
+.next/types/validator.ts(6,59): error TS7016: Could not find a declaration file for module 'next/types.js'. 'H:/GitHub/plazabaquerizo/node_modules/next/types.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/types.js';`
+next.config.ts(1,33): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+next.config.ts(10,13): error TS7006: Parameter 'config' implicitly has an 'any' type.
+src/app/[locale]/layout.tsx(1,41): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/[locale]/layout.tsx(2,45): error TS7016: Could not find a declaration file for module 'next/font/google'. 'H:/GitHub/plazabaquerizo/node_modules/next/font/google/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/font/google';`
+src/app/[locale]/page.tsx(4,18): error TS7016: Could not find a declaration file for module 'next/link'. 'H:/GitHub/plazabaquerizo/node_modules/next/link.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/link';`
+src/app/cookies/CookiesClient.tsx(3,18): error TS7016: Could not find a declaration file for module 'next/link'. 'H:/GitHub/plazabaquerizo/node_modules/next/link.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/link';`
+src/app/cookies/page.tsx(1,31): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/layout.tsx(1,41): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/page.tsx(1,26): error TS7016: Could not find a declaration file for module 'next/navigation'. 'H:/GitHub/plazabaquerizo/node_modules/next/navigation.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/navigation';`
+src/app/privacy/page.tsx(1,31): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/privacy/page.tsx(2,18): error TS7016: Could not find a declaration file for module 'next/link'. 'H:/GitHub/plazabaquerizo/node_modules/next/link.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/link';`
+src/app/sitemap.ts(1,31): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/terms/page.tsx(1,31): error TS7016: Could not find a declaration file for module 'next'. 'H:/GitHub/plazabaquerizo/node_modules/next/dist/server/next.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next';`
+src/app/terms/page.tsx(2,18): error TS7016: Could not find a declaration file for module 'next/link'. 'H:/GitHub/plazabaquerizo/node_modules/next/link.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/next` if it exists or add a new declaration (.d.ts) file containing `declare module 'next/link';`
