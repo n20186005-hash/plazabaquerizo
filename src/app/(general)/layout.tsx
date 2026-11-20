@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { ThemeProvider } from "next-themes";
-import "./globals.css";
+import "../globals.css";
+import { siteUrl } from "../site-url";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -15,7 +16,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Plaza Rodolfo Baquerizo Moreno — Guayaquil, Ecuador",
   description: "A travel guide to Plaza Rodolfo Baquerizo Moreno in Guayaquil, Ecuador. Explore this beautiful urban park, green spaces, and recreational attractions.",
-  metadataBase: new URL(`https://${process.env.CURRENT_SITE_DOMAIN || 'plazabaquerizo.com'}`),
+  metadataBase: new URL(siteUrl),
   alternates: {
     canonical: "/en",
     languages: {
