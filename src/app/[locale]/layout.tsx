@@ -1,4 +1,7 @@
 import type { Metadata, Viewport } from "next";
+import { ThemeProvider } from "next-themes";
+import { notFound } from "next/navigation";
+import { isSiteLocale, localizedAlternates, locales, siteUrl } from "../site-url";
 import { Cormorant_Garamond, DM_Sans } from "next/font/google";
 import "../globals.css";
 
@@ -17,34 +20,23 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
-const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "plazabaquerizo.com"}`;
+const baseUrl = siteUrl;
 
 export async function generateMetadata(
   { params }: { params: Promise<{ locale: string }> }
 ): Promise<Metadata> {
   const { locale } = await params;
+  if (!isSiteLocale(locale)) notFound();
+  const title = locale === "es" ? "Plaza Rodolfo Baquerizo Moreno en Guayaquil | Guía de visita" :
+    locale === "zh" ? "瓜亚基尔巴克里索广场｜位置、展览与滨水游览" :
+    "Plaza Rodolfo Baquerizo Moreno in Guayaquil | Visitor Guide";
+  const description = locale === "es" ? "Plaza Rodolfo Baquerizo Moreno en Av. 9 de Octubre y Tungurahua, Guayaquil. Ubicación, exposiciones, fotos y paseo por el Malecón del Salado." :
+    locale === "zh" ? "查找瓜亚基尔巴克里索广场的街口、展览场地、实景照片与萨拉多滨水步行路线。" :
+    "Find Plaza Rodolfo Baquerizo Moreno at 9 de Octubre and Tungurahua in Guayaquil, with directions, photos and a walk to Malecón del Salado.";
   return {
     metadataBase: new URL(baseUrl),
-    title: {
-      default: "Plaza Rodolfo Baquerizo Moreno — Guayaquil, Ecuador",
-      template: "%s | Plaza Rodolfo Baquerizo Moreno",
-    },
-    description:
-      locale === 'es' ? "Guía de viaje a Plaza Rodolfo Baquerizo Moreno en Guayaquil, Ecuador. Descubre este hermoso parque urbano, espacios verdes y atracciones recreativas." :
-      locale === 'zh' ? "Plaza Rodolfo Baquerizo Moreno 旅行指南——探索厄瓜多尔瓜亚基尔美丽的城市公园：绿化空间、休闲设施和娱乐场所。" :
-      "A travel guide to Plaza Rodolfo Baquerizo Moreno in Guayaquil, Ecuador. Discover this beautiful urban park, green spaces, and recreational attractions.",
-    keywords: [
-      "Plaza Rodolfo Baquerizo Moreno",
-      "Guayaquil tourism",
-      "Ecuador urban park",
-      "Parks in Guayaquil",
-      "Av. 9 de Octubre",
-      "Guayaquil attractions",
-      "Ecuador parks",
-      "Outdoor activities Guayaquil",
-      "Urban green space Ecuador",
-      "Guayaquil city guide",
-    ],
+    title,
+    description,
     authors: [{ name: "Plaza Rodolfo Baquerizo Moreno Travel Guide" }],
     creator: "Plaza Rodolfo Baquerizo Moreno Travel Guide",
     publisher: "Plaza Rodolfo Baquerizo Moreno Travel Guide",
@@ -58,10 +50,8 @@ export async function generateMetadata(
       locale: locale === 'es' ? 'es_EC' : locale === 'zh' ? 'zh_CN' : 'en_US',
       alternateLocale: ["en_US", "es_EC", "zh_CN"].filter(l => !l.startsWith(locale)),
       url: `${baseUrl}/${locale}`,
-      title: "Plaza Rodolfo Baquerizo Moreno — Guayaquil, Ecuador",
-      description: (locale === 'es' ? "Guía de viaje a Plaza Rodolfo Baquerizo Moreno en Guayaquil, Ecuador. Descubre este hermoso parque urbano, espacios verdes y atracciones recreativas." :
-      (locale === 'zh' ? "Plaza Rodolfo Baquerizo Moreno 旅行指南——探索厄瓜多尔瓜亚基尔美丽的城市公园：绿化空间、休闲设施和娱乐场所。" :
-      "A travel guide to Plaza Rodolfo Baquerizo Moreno in Guayaquil, Ecuador. Discover this beautiful urban park, green spaces, and recreational attractions.")),
+      title,
+      description,
       siteName: "Plaza Rodolfo Baquerizo Moreno Travel Guide",
       images: [
         {
@@ -74,9 +64,8 @@ export async function generateMetadata(
     },
     twitter: {
       card: "summary_large_image",
-      title: "Plaza Rodolfo Baquerizo Moreno — Guayaquil, Ecuador",
-      description:
-        "A travel guide to Plaza Rodolfo Baquerizo Moreno in Guayaquil, Ecuador.",
+      title,
+      description,
       images: ["/gallery/plaza-rodolfo-baquerizo-moreno (1).jpg"],
     },
     robots: {
@@ -92,12 +81,7 @@ export async function generateMetadata(
     },
     alternates: {
       canonical: `/${locale}`,
-      languages: {
-        "en": "/en",
-        "es": "/es",
-        "zh": "/zh",
-        "x-default": "/en",
-      },
+      languages: localizedAlternates(),
     },
   };
 }
@@ -108,19 +92,7 @@ export const viewport: Viewport = {
 };
 
 export function generateStaticParams() {
-  return [{ locale: "es" }, { locale: "en" }, { locale: "zh" }];
-}
-
-import { generateSchema } from "../schema";
-
-function SchemaScript({ locale }: { locale: string }) {
-  const schema = generateSchema(locale);
-  return (
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-    />
-  );
+  return locales.map((locale) => ({ locale }));
 }
 
 export default async function RootLayout({
@@ -131,10 +103,14 @@ export default async function RootLayout({
   params: Promise<{ locale: string }>;
 }>) {
   const { locale } = await params;
+  if (!isSiteLocale(locale)) notFound();
   return (
-    <html lang={locale} className={`${cormorant.variable} ${dmSans.variable}`}>
-      <SchemaScript locale={locale} />
-      <body>{children}</body>
+    <html suppressHydrationWarning lang={locale} className={`${cormorant.variable} ${dmSans.variable}`}>
+      <body className="antialiased">
+        <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem>
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   );
 }

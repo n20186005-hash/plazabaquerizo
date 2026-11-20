@@ -1,5 +1,7 @@
+import { siteUrl } from "./site-url";
+
 export function generateSchema(locale: string) {
-  const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "plazabaquerizo.com"}`;
+  const baseUrl = siteUrl;
   const lang = locale === "en" ? "en-US" : locale === "es" ? "es-EC" : "zh-CN";
 
   return {

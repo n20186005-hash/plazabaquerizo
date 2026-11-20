@@ -5,6 +5,8 @@ import Link from "next/link";
 import { LangProvider, useLang } from "@/components/LangProvider";
 import { useTheme } from "next-themes";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { guideLabels, guideSlugs, visitorGuides } from "@/i18n/visitor-guides";
+import { generateSchema } from "../schema";
 import galleryImagesData from "@/gallery-data.json";
 
 const MAPS_URL = "https://maps.app.goo.gl/SLF6QEhLsZQfujpk7";
@@ -82,7 +84,7 @@ function ThemeToggle() {
 }
 
 function Nav() {
-  const { t } = useLang();
+  const { t, locale } = useLang();
   const [scrolled, setScrolled] = useState(false);
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 80);
@@ -102,6 +104,7 @@ function Nav() {
           <a href="#history">{t.nav.history}</a>
           <a href="#ecology">{t.nav.ecology}</a>
           <a href="#culture">{t.nav.culture}</a>
+          <a href="#visitor-guides">{guideLabels[locale].guides}</a>
           <a href="#visiting">{t.nav.visiting}</a>
           <a href="#transportation">{t.nav.transportation}</a>
           <a href="#tips">{t.nav.tips}</a>
@@ -339,6 +342,27 @@ function Visiting() {
             <p style={{ fontSize: "1rem", lineHeight: "1.8", color: "rgba(255,255,255,0.85)", whiteSpace: "pre-line" }}>{t.visiting.route.content}</p>
           </div>
         </ScrollReveal>
+      </div>
+    </section>
+  );
+}
+
+function VisitorGuideLinks() {
+  const { locale } = useLang();
+  return (
+    <section id="visitor-guides" className="section">
+      <h2 className="section-title">{guideLabels[locale].guides}</h2>
+      <div className="section-divider" />
+      <div className="info-grid">
+        {guideSlugs.map((slug) => {
+          const guide = visitorGuides[locale][slug];
+          return (
+            <Link key={slug} className="info-card" href={`/${locale}/guide/${slug}`}>
+              <h3 className="info-card-content">{guide.card}</h3>
+              <p className="info-card-note">{guide.description}</p>
+            </Link>
+          );
+        })}
       </div>
     </section>
   );
@@ -674,6 +698,7 @@ export default function Home(props: { params: Promise<{ locale: string }> }) {
   const params = React.use(props.params);
   return (
     <LangProvider initialLocale={params.locale as "en" | "zh" | "es"}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(generateSchema(params.locale)) }} />
       <Nav />
       <Hero />
       <About />
@@ -681,6 +706,7 @@ export default function Home(props: { params: Promise<{ locale: string }> }) {
       <Ecology />
       <Culture />
       <Visiting />
+      <VisitorGuideLinks />
       <Transportation />
       <Tips />
       <Gallery />

@@ -1063,3 +1063,49 @@ body {
     padding: 1.25rem;
   }
 }
+
+/* Visitor guides */
+.visitor-guide-nav,
+.visitor-guide-languages {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+}
+
+.visitor-guide-nav {
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.visitor-guide-nav a,
+.visitor-guide-sources a {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.visitor-guide-languages [aria-current="page"] {
+  font-weight: 700;
+}
+
+.visitor-guide-heading {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.65rem;
+  color: var(--color-deep);
+  margin-bottom: 0.5rem;
+}
+
+.visitor-guide-sources,
+.visitor-guide-steps {
+  padding-inline-start: 1.5rem;
+  list-style: disc;
+}
+
+.visitor-guide-steps {
+  list-style: decimal;
+}
+
+.visitor-guide-steps li + li {
+  margin-top: 0.5rem;
+}
