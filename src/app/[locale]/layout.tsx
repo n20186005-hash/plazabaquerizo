@@ -1,22 +1,7 @@
 import type { Metadata, Viewport } from "next";
-import { Cormorant_Garamond, DM_Sans } from "next/font/google";
 import { ThemeProvider } from "next-themes";
 import "../globals.css";
-
-const cormorant = Cormorant_Garamond({
-  weight: ["400", "600", "700"],
-  style: ["normal", "italic"],
-  subsets: ["latin"],
-  variable: "--font-display",
-  display: "swap",
-});
-
-const dmSans = DM_Sans({
-  weight: ["300", "400", "500", "600"],
-  subsets: ["latin"],
-  variable: "--font-body",
-  display: "swap",
-});
+import "./fonts.css";
 
 const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "plazabaquerizo.com"}`;
 
@@ -126,7 +111,7 @@ export default async function RootLayout({
 }>) {
   const { locale } = await params;
   return (
-    <html lang={locale} suppressHydrationWarning className={`${cormorant.variable} ${dmSans.variable}`}>
+    <html lang={locale} suppressHydrationWarning>
       <body className="antialiased">
         <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem>
           {children}
