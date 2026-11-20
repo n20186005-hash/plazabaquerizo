@@ -2,8 +2,10 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 import { useTheme } from "next-themes";
+import type { Locale } from "@/i18n/translations";
+import { uiText } from "@/i18n/ui";
 
-function ThemeToggle() {
+function ThemeToggle({ label }: { label: string }) {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
@@ -18,7 +20,7 @@ function ThemeToggle() {
     <button
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
       className="theme-toggle-btn"
-      aria-label="Toggle theme"
+      aria-label={label}
       style={{
         background: "none",
         border: "none",
@@ -51,7 +53,7 @@ function ThemeToggle() {
   );
 }
 
-export function SiteNav({ children, languageSwitcher, homeHref }: { children: ReactNode; languageSwitcher: ReactNode; homeHref?: string }) {
+export function SiteNav({ children, languageSwitcher, homeHref, locale }: { locale: Locale; children: ReactNode; languageSwitcher: ReactNode; homeHref?: string }) {
   const Brand = homeHref ? "a" : "span";
   const [scrolled, setScrolled] = useState(false);
   useEffect(() => {
@@ -68,7 +70,7 @@ export function SiteNav({ children, languageSwitcher, homeHref }: { children: Re
       </div>
       <div className="site-nav-controls">
         <div className="nav-links">{children}</div>
-        <ThemeToggle />
+        <ThemeToggle label={uiText[locale].theme} />
         {languageSwitcher}
       </div>
     </nav>

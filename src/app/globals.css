@@ -1154,3 +1154,15 @@ body {
 }
 
 #nearby { scroll-margin-top: 6rem; }
+
+.footer-legal-link {
+  display: inline-block;
+  margin: 0.3rem 0.75rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.8rem;
+}
+
+.legal-content { max-width: 850px; padding-block-start: 10rem; }
+.legal-content .info-card { margin-block: 1.25rem; }
+.legal-content .info-card .about-text { margin-block: 0.75rem 0; }
+.legal-actions { display: flex; flex-wrap: wrap; gap: 1rem; margin-block: 1.5rem; }

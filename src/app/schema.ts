@@ -1,6 +1,35 @@
 export function generateSchema(locale: string) {
   const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || "plazabaquerizo.com"}`;
-  const lang = locale === "en" ? "en-US" : locale === "es" ? "es-EC" : "zh-CN";
+  const language = locale === "zh" || locale === "es" ? locale : "en";
+  const copy = {
+    en: {
+      park: "Urban park",
+      parkDescription: "Public urban park with green spaces and recreational facilities",
+      hours: "Open daily from 6:00 AM to 11:00 PM",
+      location: "Located on Av. 9 de Octubre in central Guayaquil",
+      rating: "Rated 4.5 out of 5 with 8,159 Google reviews",
+      guide: "Guide to Plaza Rodolfo Baquerizo Moreno urban park in Guayaquil, with green spaces, walking paths and recreational facilities",
+      home: "Home",
+    },
+    es: {
+      park: "Parque urbano",
+      parkDescription: "Parque urbano público con zonas verdes e instalaciones recreativas",
+      hours: "Abierto todos los días de 06:00 a 23:00",
+      location: "Situado en la avenida 9 de Octubre, en el centro de Guayaquil",
+      rating: "Puntuación de 4.5 sobre 5 con 8,159 reseñas de Google",
+      guide: "Guía de la Plaza Rodolfo Baquerizo Moreno en Guayaquil, con zonas verdes, senderos e instalaciones recreativas",
+      home: "Inicio",
+    },
+    zh: {
+      park: "城市公园",
+      parkDescription: "设有绿地和休闲设施的公共城市公园",
+      hours: "每日 06:00 至 23:00 开放",
+      location: "位于瓜亚基尔市中心的十月九日大道",
+      rating: "Google 评分 4.5 分，共 8,159 条评价",
+      guide: "罗多尔福·巴克里索·莫雷诺广场旅游指南，介绍瓜亚基尔市中心的绿地、步道和休闲设施",
+      home: "首页",
+    },
+  }[language];
 
   return {
     "@context": "https://schema.org",
@@ -24,26 +53,26 @@ export function generateSchema(locale: string) {
           {
             "@type": "PropertyValue",
             "name": "parkType",
-            "value": "Urban park",
-            "description": "Public urban park with green spaces and recreational facilities"
+            "value": copy.park,
+            "description": copy.parkDescription
           },
           {
             "@type": "PropertyValue",
             "name": "openingHours",
             "value": "06:00-23:00",
-            "description": "Open daily from 6:00 AM to 11:00 PM"
+            "description": copy.hours
           },
           {
             "@type": "PropertyValue",
             "name": "location",
             "value": "Av. 9 de Octubre, Guayaquil",
-            "description": "Located on Av. 9 de Octubre in central Guayaquil"
+            "description": copy.location
           },
           {
             "@type": "PropertyValue",
             "name": "rating",
             "value": "4.5/5",
-            "description": "Rated 4.5 out of 5 with 8,126 Google reviews"
+            "description": copy.rating
           }
         ],
         "openingHoursSpecification": {
@@ -79,7 +108,7 @@ export function generateSchema(locale: string) {
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Home",
+            "name": copy.home,
             "item": `${baseUrl}/${locale}`
           },
           {

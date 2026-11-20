@@ -2,6 +2,8 @@
 
 import React, { useEffect, useState, useRef } from "react";
 import { LangProvider, useLang } from "@/components/LangProvider";
+import { uiText } from "@/i18n/ui";
+import { reviewTranslations } from "@/i18n/reviews";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteNav } from "@/components/SiteNav";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
@@ -37,7 +39,7 @@ function ScrollReveal({ children, className = "" }: { children: React.ReactNode;
 function Nav() {
   const { t, locale } = useLang();
   return (
-    <SiteNav languageSwitcher={<LanguageSwitcher />}>
+    <SiteNav locale={locale} languageSwitcher={<LanguageSwitcher />}>
       <a href="#nearby">{nearbyLabels[locale].nearby}</a>
       <a href="#about">{t.nav.about}</a>
       <a href="#history">{t.nav.history}</a>
@@ -76,7 +78,7 @@ function Hero() {
         <div className="hero-meta">
           <div className="hero-rating">4.5</div>
           <div className="hero-stars">★★★★☆</div>
-          <div className="hero-reviews">8,126 {t.rating.reviews} · {t.rating.source}</div>
+          <div className="hero-reviews">8,159 {t.rating.reviews} · {t.rating.source}</div>
         </div>
       </a>
     </section>
@@ -381,7 +383,7 @@ function Tips() {
 }
 
 function Gallery() {
-  const { t } = useLang();
+  const { t, locale } = useLang();
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const galleryImages = galleryImagesData;
 
@@ -408,7 +410,7 @@ function Gallery() {
         <div className="gallery-grid">
           {galleryImages.map((src, i) => (
             <div className="gallery-item" key={i} onClick={() => setLightboxIndex(i)}>
-              <img src={src} alt={`Plaza Rodolfo Baquerizo Moreno ${i + 1}`} loading="lazy" />
+              <img src={src} alt={`${t.hero.title} ${i + 1}`} loading="lazy" />
             </div>
           ))}
         </div>
@@ -425,10 +427,10 @@ function Gallery() {
       </ScrollReveal>
       {lightboxIndex !== null && galleryImages.length > 0 && (
         <div className="lightbox" onClick={() => setLightboxIndex(null)}>
-          <button className="lightbox-close" onClick={() => setLightboxIndex(null)}>×</button>
-          <button className="lightbox-prev" onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex - 1 + galleryImages.length) % galleryImages.length); }}>‹</button>
-          <img src={galleryImages[lightboxIndex]} alt={`Plaza Rodolfo Baquerizo Moreno ${lightboxIndex + 1}`} className="lightbox-img" />
-          <button className="lightbox-next" onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex + 1) % galleryImages.length); }}>›</button>
+          <button className="lightbox-close" aria-label={uiText[locale].close} onClick={() => setLightboxIndex(null)}>×</button>
+          <button className="lightbox-prev" aria-label={uiText[locale].previous} onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex - 1 + galleryImages.length) % galleryImages.length); }}>‹</button>
+          <img src={galleryImages[lightboxIndex]} alt={`${t.hero.title} ${lightboxIndex + 1}`} className="lightbox-img" />
+          <button className="lightbox-next" aria-label={uiText[locale].next} onClick={(e) => { e.stopPropagation(); setLightboxIndex((lightboxIndex + 1) % galleryImages.length); }}>›</button>
         </div>
       )}
     </section>
@@ -436,7 +438,7 @@ function Gallery() {
 }
 
 function Reviews() {
-  const { t } = useLang();
+  const { t, locale } = useLang();
 
   return (
     <section id="reviews" className="section">
@@ -460,7 +462,8 @@ function Reviews() {
                   {"★".repeat(review.rating)}{"☆".repeat(5 - review.rating)}
                 </div>
               </div>
-              <p className="review-text">{review.text}</p>
+              <p className="review-text">{reviewTranslations[i][locale] ?? review.text}</p>
+              {reviewTranslations[i][locale] && <p className="review-date">{uiText[locale].translatedReview}</p>}
               <div className="review-source">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
                   <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" fill="#4285F4"/>
@@ -538,7 +541,7 @@ function FAQ() {
 }
 
 function Location() {
-  const { t } = useLang();
+  const { t, locale } = useLang();
   return (
     <section id="location" className="section">
       <ScrollReveal>
@@ -557,7 +560,7 @@ function Location() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Plaza Rodolfo Baquerizo Moreno Location Map"
+              title={uiText[locale].mapTitle}
             />
           </div>
           <div className="location-info">
@@ -576,8 +579,8 @@ function Location() {
 }
 
 function Footer() {
-  const { t } = useLang();
-  return <SiteFooter footer={t.footer} />;
+  const { t, locale } = useLang();
+  return <SiteFooter locale={locale} footer={t.footer} />;
 }
 
 export default function HomeContent({ locale, nearby }: { locale: "en" | "zh" | "es"; nearby: React.ReactNode }) {

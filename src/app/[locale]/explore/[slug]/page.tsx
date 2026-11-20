@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { translations, type Locale } from "@/i18n/translations";
+import { uiText } from "@/i18n/ui";
 import { SiteNav } from "@/components/SiteNav";
 import { SiteFooter } from "@/components/SiteFooter";
 import { locales, metroUrl, nearbyLabels, nearbyPath, nearbyPlaces, placeMap } from "@/content/nearby";
@@ -59,10 +60,10 @@ export default async function AttractionPage({ params }: PageProps) {
   };
   return (
     <>
-      <SiteNav homeHref={`/${locale}`} languageSwitcher={
-        <div className="lang-switcher">
+      <SiteNav locale={locale} homeHref={`/${locale}`} languageSwitcher={
+        <div className="lang-switcher" role="group" aria-label={uiText[locale].language}>
           {(["zh", "en", "es"] as const).map((language) => (
-            <Link key={language} className={`lang-btn ${language === locale ? "active" : ""}`} href={nearbyPath(language, place.slug)} hrefLang={language} aria-current={language === locale ? "page" : undefined}>
+            <Link key={language} className={`lang-btn ${language === locale ? "active" : ""}`} href={nearbyPath(language, place.slug)} lang={language} hrefLang={language} aria-current={language === locale ? "page" : undefined}>
               {language === "zh" ? "中文" : language.toUpperCase()}
             </Link>
           ))}
@@ -190,7 +191,7 @@ export default async function AttractionPage({ params }: PageProps) {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={imagePath} alt={place.names[locale]} loading="lazy" />
               <figcaption className="info-card-note">
-                {t.credit} · <a href={place.image.source}>{place.image.author} / Wikimedia Commons</a> · <a href={place.image.licenseUrl}>{place.image.license}</a>
+                {t.credit} · <a href={place.image.source}>{place.image.author} / {locale === "zh" ? "维基共享资源" : "Wikimedia Commons"}</a> · <a href={place.image.licenseUrl}>{place.image.license}</a>
               </figcaption>
             </figure>
           </section>
@@ -229,7 +230,7 @@ export default async function AttractionPage({ params }: PageProps) {
           </section>
         </div>
       </main>
-      <SiteFooter footer={translations[locale].footer} nearby={{ href: `/${locale}#nearby`, label: t.nearby }} />
+      <SiteFooter locale={locale} footer={translations[locale].footer} nearby={{ href: `/${locale}#nearby`, label: t.nearby }} />
     </>
   );
 }

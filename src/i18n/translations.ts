@@ -89,7 +89,7 @@ export const translations: Record<Locale, Translations> = {
         { name: "出租车/网约车(最便捷)", price: "$5 - $10 美元", time: "约 20-30 分钟", steps: ["在机场出口处乘坐出租车或使用网约车应用", "告诉司机前往 Av. 9 de Octubre 的 Plaza Rodolfo Baquerizo Moreno", "广场位于市中心，地下停车场可容纳112辆车（入口在 Av. 9 de Octubre）"] },
         { name: "公共交通(经济实惠)", price: "$0.35 - $0.50 美元", time: "约 40-50 分钟", steps: ["在机场乘坐前往市中心的公交或班车", "在 9 de Octubre 大道附近下车", "步行即可到达广场"] }
       ]},
-      city: { title: "从瓜亚基尔市内前往", content: "广场位于市中心 Av. 9 de Octubre 上，从任何地点前往都十分方便。广场同时紧邻瓜亚基尔大学，是学生和市民的热门去处。", steps: ["导航: 在 Google Maps 中输入 Plaza Rodolfo Baquerizo Moreno Guayaquil", "公交: 乘坐前往 9 de Octubre 大道的公交车，在 Plaza Rodolfo Baquerizo Moreno 站下车", "步行: 从 Malecón del Estero Salado 方向沿步道可直接走入广场"] },
+      city: { title: "从瓜亚基尔市内前往", content: "广场位于市中心 Av. 9 de Octubre 上，从任何地点前往都十分方便。广场同时紧邻瓜亚基尔大学，是学生和市民的热门去处。", steps: ["导航: 在 Google 地图 中输入 Plaza Rodolfo Baquerizo Moreno Guayaquil", "公交: 乘坐前往 9 de Octubre 大道的公交车，在 Plaza Rodolfo Baquerizo Moreno 站下车", "步行: 从 Malecón del Estero Salado 方向沿步道可直接走入广场"] },
       selfDrive: { title: "自驾前往", content: "广场设有地下停车场，可容纳112辆车，对自驾游客非常友好。", steps: ["导航至 Av. 9 de Octubre, Plaza Rodolfo Baquerizo Moreno", "地下停车场入口位于 Av. 9 de Octubre 侧，有醒目标识", "停车费: 请咨询现场收费标准，部分时段可能免费"] }
     },
     tips: { title: "游览建议", items: [
@@ -102,8 +102,8 @@ export const translations: Record<Locale, Translations> = {
       "请保持广场整洁，不要乱扔垃圾，共同维护这一城市文化空间",
       "周边有餐厅和商店，可以顺道用餐或购物"
     ] },
-    gallery: { title: "精彩照片", viewMore: "在 Google Maps 查看更多相片" },
-    reviews: { title: "游客评价", subtitle: "来自 Google Maps 的真实评价", viewMore: "在 Google Maps 查看更多评价" },
+    gallery: { title: "精彩照片", viewMore: "在 Google 地图 查看更多相片" },
+    reviews: { title: "游客评价", subtitle: "来自 Google 地图的评价", viewMore: "在 Google 地图 查看更多评价" },
     faq: { title: "常见问题", subtitle: "深入了解 Plaza Rodolfo Baquerizo Moreno", items: [
       { question: "Plaza Rodolfo Baquerizo Moreno 的开放时间是？", answer: "每日 06:00 - 23:00，全年无休，节假日正常开放。开放时间较长，方便市民在不同时间段前来休闲或参加文化活动。" },
       { question: "进入广场需要门票吗？", answer: "广场的公共区域完全免费向公众开放，无需购票或预约。部分特展或 Ágora 专场的商业演出可能单独收费，请留意现场或官方公告。" },
@@ -112,7 +112,7 @@ export const translations: Record<Locale, Translations> = {
       { question: "如何前往 Plaza Rodolfo Baquerizo Moreno？", answer: "广场位于瓜亚基尔市中心 Av. 9 de Octubre 上，紧邻瓜亚基尔大学，交通便利。从机场打车约 20-30 分钟，市区内可乘坐公交或步行前往。自驾游客可使用广场地下停车场（112车位）。" },
       { question: "广场附近还有哪些值得一游的景点？", answer: "强烈推荐顺道参观：\n1. Malecón del Estero Salado（萨拉多河口滨江大道）——与广场直接相连，是欣赏河岸日落、享用海鲜晚餐和观赏水上喷泉的绝佳去处；\n2. 9 de Octubre 大道——购物和餐饮热门区域；\n3. 瓜亚基尔大学——感受当地学术氛围；\n4. Malecón 2000——瓜亚基尔最著名的滨河景观带，距离不远。" }
     ]},
-    location: { title: "地图位置", address: "Av. 9 de Octubre, 090313 Guayaquil, 厄瓜多尔\n(市中心，紧邻 Universidad de Guayaquil，连接 Malecón del Estero Salado)", openMaps: "在 Google Maps 查看位置" },
+    location: { title: "地图位置", address: "Av. 9 de Octubre, 090313 Guayaquil, 厄瓜多尔\n(市中心，紧邻 Universidad de Guayaquil，连接 Malecón del Estero Salado)", openMaps: "在 Google 地图 查看位置" },
     footer: { callToAction: "作为城市文化与生态空间，请与我们一起爱护环境、保护绿地。保持广场整洁，共同维护这一跨越世纪的城市记忆。", text: "© 2026 Plaza Rodolfo Baquerizo Moreno 科普指南 · 保留所有权利。\n本网站是一个独立的第三方科普项目，致力于准确传播瓜亚基尔城市历史文化。我们与当地政府或其他官方机构没有任何关联。", made: "本网站是一个独立的第三方科普项目。为探索者与学习者而制。", linksTitle: "相关链接", links: [
       { name: "厄瓜多尔国家旅游局", url: "https://ecuador.travel/" },
       { name: "瓜亚基尔市政府", url: "https://www.guayaquil.gob.ec/" },
@@ -221,7 +221,7 @@ export const translations: Record<Locale, Translations> = {
   es: {
     nav: { about: "Descripción", history: "Historia", ecology: "Ecología", culture: "Arquitectura y Cultura", visiting: "Guía de Visita", transportation: "Cómo Llegar", tips: "Consejos", gallery: "Galería de Fotos", reviews: "Reseñas", faq: "Preguntas Frecuentes", location: "Ubicación" },
     hero: { tagline: "Centro de Guayaquil · Plaza Cultural Urbana de Siglos", title: "Plaza Rodolfo Baquerizo Moreno", subtitle: "Guayaquil, Ecuador · Av. 9 de Octubre", cta: "Explora la Plaza" },
-    rating: { reviews: "reseñas", source: "Google Reviews" },
+    rating: { reviews: "reseñas", source: "Reseñas de Google" },
     about: {
       title: "Descripción General",
       p1: "La Plaza Rodolfo Baquerizo Moreno se encuentra en el centro de Guayaquil, Ecuador, en la importante avenida Av. 9 de Octubre. Sirve como un vital nudo urbano que conecta la Universidad de Guayaquil con el Malecón del Estero Salado.\n\nLa plaza recibe su nombre de Rodolfo Baquerizo Moreno (1890-1977), destacado empresario y promotor cultural guayaquileño de principios del siglo XX. En 1922, estableció en este mismo sitio el primer gran parque de atracciones de Guayaquil, el \"American Park,\" dejando una profunda huella en la memoria colectiva de la ciudad.",
@@ -281,7 +281,7 @@ export const translations: Record<Locale, Translations> = {
         { name: "Taxi/Movilidad (Más Conveniente)", price: "$5 - $10 USD", time: "Aproximadamente 20-30 minutos", steps: ["Tomar un taxi en la salida del aeropuerto o usar aplicación de movilidad", "Decirle al conductor que vaya a Plaza Rodolfo Baquerizo Moreno en Av. 9 de Octubre", "La plaza tiene un estacionamiento subterráneo (112 espacios); la entrada está en Av. 9 de Octubre"] },
         { name: "Transporte Público (Económico)", price: "$0.35 - $0.50 USD", time: "Aproximadamente 40-50 minutos", steps: ["Tomar un autobús o transporte desde el aeropuerto al centro", "Bajar cerca de Av. 9 de Octubre", "Caminar para llegar a la plaza"] }
       ]},
-      city: { title: "Desde el Interior de Guayaquil", content: "La plaza está ubicada en Av. 9 de Octubre en el centro, muy conveniente para acceder desde cualquier ubicación. Es adjacente a la Universidad de Guayaquil, lo que la convierte en un destino popular para estudiantes y ciudadanos por igual.", steps: ["Navegación: Ingresar Plaza Rodolfo Baquerizo Moreno Guayaquil en Google Maps", "Autobús: Tomar un autobús que va a Av. 9 de Octubre, bajar en la parada Plaza Rodolfo Baquerizo Moreno", "Caminando: Desde el Malecón del Estero Salado, siga la pasarela directamente hacia la plaza"] },
+      city: { title: "Desde el Interior de Guayaquil", content: "La plaza está ubicada en Av. 9 de Octubre en el centro, muy conveniente para acceder desde cualquier ubicación. Es junto a la Universidad de Guayaquil, lo que la convierte en un destino popular para estudiantes y ciudadanos por igual.", steps: ["Navegación: Ingresar Plaza Rodolfo Baquerizo Moreno Guayaquil en Google Maps", "Autobús: Tomar un autobús que va a Av. 9 de Octubre, bajar en la parada Plaza Rodolfo Baquerizo Moreno", "Caminando: Desde el Malecón del Estero Salado, siga la pasarela directamente hacia la plaza"] },
       selfDrive: { title: "Conduciendo", content: "La plaza cuenta con un estacionamiento subterráneo con 112 espacios, muy amigable para visitantes que conducen.", steps: ["Navegar a Av. 9 de Octubre, Plaza Rodolfo Baquerizo Moreno", "La entrada del estacionamiento subterráneo está en el lado de Av. 9 de Octubre, claramente señalizada", "Tarifa de estacionamiento: Consulte las tarifas en el sitio; algunas horas pueden ser gratuitas"] }
     },
     tips: { title: "Consejos de Viaje", items: [
@@ -301,10 +301,10 @@ export const translations: Record<Locale, Translations> = {
       { question: "¿Hay tarifa de entrada a la plaza?", answer: "No. Las áreas públicas de la plaza son completamente gratuitas y están abiertas al público. No se requieren entradas o reservas. Algunas exhibiciones especiales o funciones con entrada en el Ágora pueden cobrar por separado." },
       { question: "¿Quién le da nombre a la plaza? ¿Cuál es su importancia histórica?", answer: "La plaza recibe su nombre de Rodolfo Baquerizo Moreno (1890-1977), destacado empresario y promotor cultural de Guayaquil de principios del siglo XX. En 1922, estableció el primer gran parque de atracciones de la ciudad, el \"American Park,\" en este mismo sitio. Aclaración importante: Rodolfo Baquerizo Moreno NO fue una figura política—el presidente histórico fue Alfredo Baquerizo Moreno. Por favor no confunda a las dos personas." },
       { question: "¿Para qué actividades es adecuada la plaza? ¿Qué más puedo hacer además de caminar?", answer: "La plaza integra funciones ecológicas, culturales y de convenciones. Puede: observar aves urbanas tropicales (binoculares recomendados), visitar exhibiciones gratuitas en el área de exhibición a nivel de suelo, disfrutar de presentaciones en vivo en el teatro al aire libre Ágora, y caminar por la pasarela circular hasta el Malecón del Estero Salado para cenar mariscos. También es un aula viva para comprender casi dos siglos de transformación urbana de Guayaquil." },
-      { question: "¿Cómo llegar a Plaza Rodolfo Baquerizo Moreno?", answer: "La plaza está ubicada en Av. 9 de Octubre en el centro de Guayaquil, adjacente a la Universidad de Guayaquil, con transporte conveniente. Unos 20-30 minutos en taxi desde el aeropuerto. Los visitantes que conducen pueden usar el estacionamiento subterráneo (112 espacios)." },
+      { question: "¿Cómo llegar a Plaza Rodolfo Baquerizo Moreno?", answer: "La plaza está ubicada en Av. 9 de Octubre en el centro de Guayaquil, junto a la Universidad de Guayaquil, con transporte conveniente. Unos 20-30 minutos en taxi desde el aeropuerto. Los visitantes que conducen pueden usar el estacionamiento subterráneo (112 espacios)." },
       { question: "¿Qué otras atracciones vale la pena visitar cerca de la plaza?", answer: "Altamente recomendado visitar nearby:\n1. Malecón del Estero Salado—conectado directamente a la plaza, excelente para atardeceres frente al río, cena de mariscos y espectáculos de fuentes de agua;\n2. Av. 9 de Octubre—área popular de compras y comida;\n3. Universidad de Guayaquil—experimente la atmósfera académica local;\n4. Malecón 2000—la franja paisajística ribereña más famosa de Guayaquil, a poca distancia." }
     ]},
-    location: { title: "Ubicación en el Mapa", address: "Av. 9 de Octubre, 090313 Guayaquil, Ecuador\n(Centro, adjacente a la Universidad de Guayaquil, conectando con el Malecón del Estero Salado)", openMaps: "Ver Ubicación en Google Maps" },
+    location: { title: "Ubicación en el Mapa", address: "Av. 9 de Octubre, 090313 Guayaquil, Ecuador\n(Centro, junto a la Universidad de Guayaquil, conectando con el Malecón del Estero Salado)", openMaps: "Ver Ubicación en Google Maps" },
     footer: { callToAction: "Como un espacio cultural y ecológico urbano, por favor únanse a nosotros para cuidar el entorno y proteger las áreas verdes. Mantenga la plaza limpia y preserve juntos esta memoria urbana que abarca siglos.", text: "© 2026 Guía Educativa de Plaza Rodolfo Baquerizo Moreno · Todos los derechos reservados.\nEste sitio web es un proyecto educativo independiente de terceros dedicado a compartir con precisión la historia y cultura urbana de Guayaquil. No estamos afiliados con el gobierno local ni ninguna autoridad oficial.", made: "Este sitio web es un proyecto educativo independiente de terceros. Hecho para exploradores y aprendices.", linksTitle: "Enlaces Relacionados", links: [
       { name: "Dirección Nacional de Turismo", url: "https://ecuador.travel/" },
       { name: "Municipio de Guayaquil", url: "https://www.guayaquil.gob.ec/" },
