@@ -1,0 +1,2766 @@
+[
+  {
+    "slug": "salado",
+    "names": {
+      "es": "Malecón del Salado",
+      "en": "Salado Waterfront",
+      "zh": "萨拉多河岸步道"
+    },
+    "address": "Av. 9 de Octubre y Estero Salado, Guayaquil",
+    "management": {
+      "es": "Fundación Malecón 2000 mantiene el paseo del Estero Salado y sus espacios de uso público.",
+      "en": "Fundación Malecón 2000 maintains the Salado estuary promenade and its public spaces.",
+      "zh": "马雷孔2000基金会负责维护萨拉多河口步道及沿线公共空间。"
+    },
+    "source": "https://malecon.org.ec/fundacion.php",
+    "hours": {
+      "es": "Consulta el horario de los accesos del paseo.",
+      "en": "Check opening arrangements for waterfront entrances.",
+      "zh": "出发前查询滨水区各入口开放安排。"
+    },
+    "fare": {
+      "es": "Consulta por separado las actividades o servicios de pago.",
+      "en": "Check fees for activities or additional services separately.",
+      "zh": "收费活动或附加服务需另查。"
+    },
+    "tips": {
+      "es": "Tras la lluvia, presta atención a los peldaños y al pavimento junto al agua.",
+      "en": "After rain, watch for slippery steps and paving by the water.",
+      "zh": "雨后留意河边台阶和铺装路面。"
+    },
+    "content": {
+      "es": {
+        "intro": "El paseo recuperó la orilla del estero para el uso público. Desde la entrada de la avenida se distinguen las terrazas, los cambios de nivel y la relación del paseo con el agua.",
+        "route": "Entra desde la plaza Baquerizo, baja al paseo ribereño y vuelve por el acceso de la avenida.",
+        "photoHint": "Busca una vista lateral del puente desde la orilla.",
+        "question": "¿Es el mismo paseo que el Malecón 2000?",
+        "answer": "No: esta orilla pertenece al Estero Salado, al otro extremo de la avenida.",
+        "discovery": "Compara las terrazas junto al estero con la plaza elevada; desde el nivel bajo se aprecia cuánto cambia la perspectiva bajo el puente.",
+        "lastStep": "Haz la última parada frente al puente antes de subir a la avenida."
+      },
+      "en": {
+        "intro": "The promenade reclaimed the estuary bank for public use. From the avenue entrance, the terraces and changes in level show how the walkway meets the water.",
+        "route": "Enter from Baquerizo Plaza, descend to the waterfront and return via the avenue access.",
+        "photoHint": "Look for a side view of the bridge from the bank.",
+        "question": "Is this Malecón 2000?",
+        "answer": "This promenade is on the Salado estuary at the opposite end of the avenue.",
+        "discovery": "Compare the estuary terraces with the elevated plaza. At the lower level, notice how the view changes beneath the bridge.",
+        "lastStep": "Make your final stop facing the bridge before returning to the avenue."
+      },
+      "zh": {
+        "intro": "改造后的步道把萨拉多河口岸线重新开放给公众。从大道入口可观察分层平台及步道如何顺着水岸布置。",
+        "route": "从巴克里索广场入口下到滨水步道，再经大道入口折返。",
+        "photoHint": "在岸上找个能侧拍桥身的位置。",
+        "question": "这里是马雷孔2000吗？",
+        "answer": "这里在萨拉多河口，马雷孔2000位于大道另一端的瓜亚斯河畔。",
+        "discovery": "对照河口边的分层平台和高处的广场。下到低处后，留意桥下视野如何变化。",
+        "lastStep": "回大道之前，在正对桥身的位置作最后一站。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_del_Salado_de_Guayaquil.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, usa el acceso de la avenida 9 de Octubre. Si llegas en taxi, indica la esquina con Tungurahua como punto de referencia.",
+      "en": "From Baquerizo Plaza, use the 9 de Octubre Avenue access. If arriving by taxi, use the Tungurahua intersection as a landmark.",
+      "zh": "从巴克里索广场走十月九日大道入口。乘出租车可把通古拉瓦街交口作为下车参照。"
+    },
+    "related": [
+      "puente-5-junio",
+      "avenida-9-octubre"
+    ],
+    "kind": "park",
+    "duration": "30–45"
+  },
+  {
+    "slug": "puente-5-junio",
+    "names": {
+      "es": "Puente 5 de Junio",
+      "en": "5 de Junio Bridge",
+      "zh": "六月五日桥"
+    },
+    "address": "Av. 9 de Octubre y Av. Carlos Julio Arosemena, Guayaquil",
+    "management": {
+      "es": "El puente forma parte de la red vial de Guayaquil. Para obras o cierres del paso, consulta al Municipio.",
+      "en": "The bridge is part of Guayaquil’s street network. Check with the city for roadworks or closures.",
+      "zh": "桥梁属于瓜亚基尔市政道路网，桥面施工或封闭信息可向市政府查询。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Puente_5_de_Junio",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "El puente une la avenida 9 de Octubre y la avenida Carlos Julio Arosemena sobre el Estero Salado. Su tablero bajo contrasta con los niveles del malecón.",
+        "route": "Empieza en la plaza, observa el puente desde el malecón y cruza solo si el paso peatonal está habilitado.",
+        "photoHint": "Fotografía la estructura desde la ribera norte.",
+        "question": "¿Por dónde se ve el perfil completo?",
+        "answer": "Desde el paseo inferior del malecón.",
+        "discovery": "El tablero conecta 9 de Octubre con Carlos Julio Arosemena y muestra cómo la ciudad salva el estero en su eje principal.",
+        "lastStep": "Si el paso está cerrado, termina en la ribera y vuelve al acceso de la plaza."
+      },
+      "en": {
+        "intro": "The crossing connects 9 de Octubre and Carlos Julio Arosemena avenues over the estuary. Its low deck contrasts with the levels of the waterfront walk.",
+        "route": "Start at the plaza, view the bridge from the promenade and cross if the pedestrian route is open.",
+        "photoHint": "Photograph the deck from the north bank.",
+        "question": "Where can I see the full profile?",
+        "answer": "Try the lower waterfront path.",
+        "discovery": "The deck carries an important city axis across the estuary, connecting 9 de Octubre with Carlos Julio Arosemena.",
+        "lastStep": "If the crossing is closed, finish on the riverbank and retrace your steps to the plaza entrance."
+      },
+      "zh": {
+        "intro": "桥梁横跨萨拉多河口，连接十月九日大道和卡洛斯·胡利奥·阿罗塞梅纳大道。低矮的桥面与分层的滨水平台形成对照。",
+        "route": "从广场出发，在滨水步道看桥。",
+        "photoHint": "人行通道开放时可过桥，拍摄桥身宜站在北岸。",
+        "question": "哪里能看完整桥身？",
+        "answer": "可以从较低一层的滨水步道观察。",
+        "discovery": "桥面把十月九日大道与卡洛斯·胡利奥·阿罗塞梅纳大道相连，让城市主轴跨越河口。",
+        "lastStep": "若人行道封闭，在岸边结束观览后原路回广场入口。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Puente_5_de_Junio_desde_la_orilla_norte.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, usa el acceso de la avenida 9 de Octubre. Si llegas en taxi, indica la esquina con Tungurahua como punto de referencia.",
+      "en": "From Baquerizo Plaza, use the 9 de Octubre Avenue access. If arriving by taxi, use the Tungurahua intersection as a landmark.",
+      "zh": "从巴克里索广场走十月九日大道入口。乘出租车可把通古拉瓦街交口作为下车参照。"
+    },
+    "related": [
+      "salado",
+      "avenida-9-octubre"
+    ],
+    "kind": "bridge",
+    "duration": "15–25"
+  },
+  {
+    "slug": "avenida-9-octubre",
+    "names": {
+      "es": "Avenida 9 de Octubre",
+      "en": "9 de Octubre Avenue",
+      "zh": "十月九日大道"
+    },
+    "address": "Av. 9 de Octubre, entre el Estero Salado y el río Guayas, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "La avenida conmemora la independencia de Guayaquil y organiza un eje urbano entre el estero y el río. Cambian las escalas de las fachadas al pasar de las plazas a la zona comercial.",
+        "route": "Sal de Baquerizo hacia el Centenario, continúa a San Francisco y termina junto al río.",
+        "photoHint": "Toma la foto axial desde la acera del Salado.",
+        "question": "¿Se recorre de una vez?",
+        "answer": "Puedes dividir la caminata en el Centenario y seguir después de una pausa.",
+        "discovery": "Lee la avenida en tres escenas: agua y parque al oeste, monumentos y comercios en el centro y una apertura al río en La Rotonda.",
+        "lastStep": "En el extremo del Guayas, cruza hasta el paseo y observa el eje desde el hemiciclo."
+      },
+      "en": {
+        "intro": "The avenue commemorates Guayaquil’s independence and forms an urban axis between the estuary and river. Building fronts change in scale between the squares and shopping blocks.",
+        "route": "Walk from Baquerizo to Centenario, continue past San Francisco and finish at the river.",
+        "photoHint": "Take an axial photograph from the Salado sidewalk.",
+        "question": "Can I split the walk?",
+        "answer": "Make Centenario your midpoint and continue after a break.",
+        "discovery": "Read the avenue in three parts: water and parkland in the west, monuments and shops in the centre, and an open river view at La Rotonda.",
+        "lastStep": "At the Guayas end, cross to the waterfront and look back along the avenue from the monument."
+      },
+      "zh": {
+        "intro": "大道纪念瓜亚基尔独立，也是连接河口与瓜亚斯河的城市轴线。从广场走进商业街区时，可以看到沿街立面的尺度变化。",
+        "route": "由巴克里索广场步行至百年纪念广场，经圣弗朗西斯科教堂走到河边。",
+        "photoHint": "从萨拉多端人行道沿大道取景。",
+        "question": "可以分段走吗？",
+        "answer": "百年纪念广场适合作为中途休息点。",
+        "discovery": "可分三段看大道：西端是水岸和公园，中段是纪念建筑和街铺，东端在会晤纪念碑前敞开江景。",
+        "lastStep": "在瓜亚斯河一端过街到步道，从半圆柱廊方向回望大道。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Avenida_9_de_Octubre_desde_el_Malec%C3%B3n_del_Salado.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, usa el acceso de la avenida 9 de Octubre. Si llegas en taxi, indica la esquina con Tungurahua como punto de referencia.",
+      "en": "From Baquerizo Plaza, use the 9 de Octubre Avenue access. If arriving by taxi, use the Tungurahua intersection as a landmark.",
+      "zh": "从巴克里索广场走十月九日大道入口。乘出租车可把通古拉瓦街交口作为下车参照。"
+    },
+    "related": [
+      "salado",
+      "puente-5-junio"
+    ],
+    "kind": "street",
+    "duration": "60–90"
+  },
+  {
+    "slug": "centenario",
+    "names": {
+      "es": "Plaza del Centenario",
+      "en": "Centenario Square",
+      "zh": "百年纪念广场"
+    },
+    "address": "Av. 9 de Octubre y Lorenzo de Garaycoa, Guayaquil",
+    "management": {
+      "es": "Parques EP, la empresa pública del Municipio de Guayaquil, realiza la limpieza y el mantenimiento de este parque del centro.",
+      "en": "Parques EP, Guayaquil’s municipal parks company, cleans and maintains this downtown park.",
+      "zh": "瓜亚基尔市公园企业 Parques EP 负责清洁和维护这座市中心公园。"
+    },
+    "source": "https://guayaquil.gob.ec/mantenimiento-parques-plazas-centro-guayaquil/",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "La plaza celebra el centenario de la independencia guayaquileña. Los senderos convergen en la columna, rodeada de figuras que se aprecian mejor al recorrer el perímetro.",
+        "route": "Entra por la avenida, da una vuelta a la columna y sal hacia la Aerovía.",
+        "photoHint": "Desde un sendero diagonal puedes encuadrar monumento y arbolado.",
+        "question": "¿Dónde hacer una pausa?",
+        "answer": "Las zonas de sombra del perímetro permiten detenerse sin bloquear el paso central.",
+        "discovery": "La Columna a los Próceres es el punto de orientación del conjunto. Los accesos ofrecen perspectivas distintas de la columna y el arbolado.",
+        "lastStep": "Antes de salir, mira las figuras desde un acceso lateral para ver otro lado de la base."
+      },
+      "en": {
+        "intro": "The square commemorates a century of Guayaquil’s independence. Its paths converge on the column, whose figures are best seen by walking around the monument.",
+        "route": "Enter from the avenue, circle the column and exit toward the cable-car station.",
+        "photoHint": "Frame the trees and monument from a diagonal path.",
+        "question": "Where can I take a break?",
+        "answer": "Look for shade around the perimeter and keep the central paths clear.",
+        "discovery": "The independence column is the square’s focal point. Each approach frames the column and trees differently.",
+        "lastStep": "Before leaving, look from a side path to see another face of the base."
+      },
+      "zh": {
+        "intro": "广场为纪念瓜亚基尔独立百年而建。步道汇聚到纪念柱，绕柱一周才能看全各侧人物雕塑。",
+        "route": "从大道进入，绕柱一圈后往缆车站方向离开。",
+        "photoHint": "在斜向步道上可同时拍到纪念柱和树木。",
+        "question": "适合在哪里休息？",
+        "answer": "外围有树荫，停留时可避开中央主通道。",
+        "discovery": "独立先驱纪念柱是广场的视觉中心。几处入口各自框出不同角度的纪念柱与树木。",
+        "lastStep": "离开前从侧向步道观察，补看基座的另一面。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Parque_Centenario.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Parque Centenario es la referencia de llegada para este tramo de la avenida. Desde la plaza Baquerizo, sigue a pie 9 de Octubre hacia el río.",
+      "en": "Use Parque Centenario as the arrival landmark for this stretch. From Baquerizo Plaza, follow 9 de Octubre Avenue toward the river.",
+      "zh": "这一段可把百年纪念广场作为抵达参照。从巴克里索广场沿十月九日大道朝瓜亚斯河方向步行。"
+    },
+    "related": [
+      "san-francisco",
+      "la-merced",
+      "aerovia"
+    ],
+    "kind": "square",
+    "duration": "20–35"
+  },
+  {
+    "slug": "malecon-2000",
+    "names": {
+      "es": "Malecón 2000",
+      "en": "Malecón 2000",
+      "zh": "马雷孔2000滨河长廊"
+    },
+    "address": "Malecón Simón Bolívar, Guayaquil",
+    "management": {
+      "es": "Fundación Malecón 2000 administra el paseo del río Guayas, incluidos sus espacios exteriores de visita.",
+      "en": "Fundación Malecón 2000 administers the Guayas riverwalk, including its outdoor visitor areas.",
+      "zh": "瓜亚斯河畔长廊及其户外游览区由马雷孔2000基金会管理。"
+    },
+    "source": "https://malecon.org.ec/turismo.php",
+    "hours": {
+      "es": "Paseo principal: 07:00–00:00, según la Fundación; confirma el acceso concreto.",
+      "en": "Main promenade: 07:00–00:00, according to the foundation. Check individual entrances.",
+      "zh": "基金会公布主步道开放时间为 07:00–次日 00:00，具体入口请另查。"
+    },
+    "fare": {
+      "es": "Acceso peatonal al paseo; servicios y recintos pueden cobrar por separado.",
+      "en": "Pedestrian access to the promenade. Services and venues can charge separately.",
+      "zh": "滨河步道可步行进入，沿途服务和场馆可能另收费。"
+    },
+    "tips": {
+      "es": "Tras la lluvia, presta atención a los peldaños y al pavimento junto al agua.",
+      "en": "After rain, watch for slippery steps and paving by the water.",
+      "zh": "雨后留意河边台阶和铺装路面。"
+    },
+    "content": {
+      "es": {
+        "intro": "La renovación del borde del Guayas convirtió antiguos tramos portuarios en un paseo con plazas, jardines y equipamientos. Los accesos transversales conservan la relación con las calles del centro.",
+        "route": "Entra por 9 de Octubre, gira hacia los jardines y continúa al acceso de Las Peñas.",
+        "photoHint": "Incluye el río y la baranda en una foto longitudinal.",
+        "question": "¿Hace falta boleto?",
+        "answer": "El paseo peatonal y las atracciones comerciales tienen condiciones de ingreso distintas.",
+        "discovery": "La Rotonda, los jardines y la noria marcan tres escalas del paseo: plaza cívica, recinto de sombra y silueta visible desde lejos.",
+        "lastStep": "Termina en el acceso norte; decide allí si seguir a Las Peñas o regresar por Junín."
+      },
+      "en": {
+        "intro": "Redevelopment turned stretches of the former port edge into a promenade with plazas, gardens and visitor facilities. Cross entrances connect it to downtown streets.",
+        "route": "Enter at 9 de Octubre, turn toward the gardens and continue toward Las Peñas.",
+        "photoHint": "Include the rail and river in a photograph along the promenade.",
+        "question": "Do I need a ticket?",
+        "answer": "The promenade and privately operated attractions have separate admission arrangements.",
+        "discovery": "La Rotonda, the gardens and the observation wheel offer three scales of riverfront design: civic plaza, shaded enclosure and distant skyline landmark.",
+        "lastStep": "Finish at the north entrance and decide whether to continue to Las Peñas or return via Junín."
+      },
+      "zh": {
+        "intro": "瓜亚斯河岸更新把部分旧港口空间改为串联广场、花园和游憩设施的步道。横向入口将河岸与市中心街道相连。",
+        "route": "从十月九日大道进入，朝花园方向走，再前往拉斯佩尼亚斯。",
+        "photoHint": "沿栏杆斜拍可把河面带入画面。",
+        "question": "需要买票吗？",
+        "answer": "步道和沿线商业设施的入场条件各自独立。",
+        "discovery": "会晤纪念碑、花园和摩天轮代表长廊的三种尺度：市政广场、林荫游园和远处可辨的天际线地标。",
+        "lastStep": "在北入口结束；可就此继续去拉斯佩尼亚斯，或经胡宁街折返。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_2000_en_Guayaquil.jpg",
+      "author": "Padaguan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "rotonda",
+      "torre-morisca",
+      "jardines-malecon"
+    ],
+    "kind": "park",
+    "duration": "60–120"
+  },
+  {
+    "slug": "rotonda",
+    "names": {
+      "es": "Hemiciclo de la Rotonda",
+      "en": "Rotonda Monument",
+      "zh": "圆形会晤纪念碑"
+    },
+    "address": "Malecón Simón Bolívar y Av. 9 de Octubre, Guayaquil",
+    "management": {
+      "es": "Fundación Malecón 2000 administra el paseo del río Guayas, incluidos sus espacios exteriores de visita.",
+      "en": "Fundación Malecón 2000 administers the Guayas riverwalk, including its outdoor visitor areas.",
+      "zh": "瓜亚斯河畔长廊及其户外游览区由马雷孔2000基金会管理。"
+    },
+    "source": "https://malecon.org.ec/turismo.php",
+    "hours": {
+      "es": "Paseo principal: 07:00–00:00, según la Fundación; confirma el acceso concreto.",
+      "en": "Main promenade: 07:00–00:00, according to the foundation. Check individual entrances.",
+      "zh": "基金会公布主步道开放时间为 07:00–次日 00:00，具体入口请另查。"
+    },
+    "fare": {
+      "es": "Acceso peatonal al paseo; servicios y recintos pueden cobrar por separado.",
+      "en": "Pedestrian access to the promenade. Services and venues can charge separately.",
+      "zh": "滨河步道可步行进入，沿途服务和场馆可能另收费。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "El monumento recuerda la entrevista de 1822 entre Simón Bolívar y José de San Martín. Las columnas semicirculares convierten el encuentro en una escena frente al río.",
+        "route": "Llega por la avenida, observa las figuras de frente y luego rodea el hemiciclo hacia el paseo fluvial.",
+        "photoHint": "Una toma frontal conserva la simetría.",
+        "question": "¿Qué representan las figuras?",
+        "answer": "A los dos líderes de la independencia que se entrevistaron en Guayaquil.",
+        "discovery": "La escenografía junta dos líderes y una columnata semicircular frente al Guayas. Recorre el conjunto de frente y de perfil para entender su composición.",
+        "lastStep": "Desde la baranda vuelve la mirada hacia avenida 9 de Octubre para reconocer el eje urbano."
+      },
+      "en": {
+        "intro": "The monument recalls the 1822 meeting of Simón Bolívar and José de San Martín. A semicircle of columns sets the scene against the river.",
+        "route": "Approach from the avenue, view the figures head-on and then walk around the monument toward the river.",
+        "photoHint": "A front-on photograph preserves the symmetry.",
+        "question": "Who are the figures?",
+        "answer": "They depict the two independence leaders who met in Guayaquil.",
+        "discovery": "The monument sets two leaders and a semicircular colonnade against the Guayas. View it head-on and in profile to understand the composition.",
+        "lastStep": "From the rail, look back toward 9 de Octubre to see the urban axis."
+      },
+      "zh": {
+        "intro": "纪念碑记载了西蒙·玻利瓦尔与何塞·德·圣马丁于1822年的会晤。半圆形柱列把河边空间布置成会晤场景。",
+        "route": "从大道抵达，先正面看雕塑，再绕半圆柱列走向河边。",
+        "photoHint": "正面拍摄最能呈现对称构图。",
+        "question": "雕塑是谁？",
+        "answer": "是在瓜亚基尔会晤的两位独立运动领袖。",
+        "discovery": "纪念碑把两位独立运动领袖和半圆柱廊置于瓜亚斯河畔。分别从正面和侧面看整体构图。",
+        "lastStep": "到河边栏杆后回看十月九日大道，辨认城市轴线。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hemiciclo_de_la_Rotonda.jpg",
+      "author": "Padaguan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "malecon-2000",
+      "torre-morisca",
+      "jardines-malecon",
+      "universidad-artes"
+    ],
+    "kind": "monument",
+    "duration": "15–25"
+  },
+  {
+    "slug": "torre-morisca",
+    "names": {
+      "es": "Torre Morisca",
+      "en": "Moorish Clock Tower",
+      "zh": "摩尔钟楼"
+    },
+    "address": "Malecón Simón Bolívar y 10 de Agosto, Guayaquil",
+    "management": {
+      "es": "Fundación Malecón 2000 administra el paseo del río Guayas, incluidos sus espacios exteriores de visita.",
+      "en": "Fundación Malecón 2000 administers the Guayas riverwalk, including its outdoor visitor areas.",
+      "zh": "瓜亚斯河畔长廊及其户外游览区由马雷孔2000基金会管理。"
+    },
+    "source": "https://malecon.org.ec/turismo.php",
+    "hours": {
+      "es": "Paseo principal: 07:00–00:00, según la Fundación; confirma el acceso concreto.",
+      "en": "Main promenade: 07:00–00:00, according to the foundation. Check individual entrances.",
+      "zh": "基金会公布主步道开放时间为 07:00–次日 00:00，具体入口请另查。"
+    },
+    "fare": {
+      "es": "Acceso peatonal al paseo; servicios y recintos pueden cobrar por separado.",
+      "en": "Pedestrian access to the promenade. Services and venues can charge separately.",
+      "zh": "滨河步道可步行进入，沿途服务和场馆可能另收费。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "El reloj público de la ciudad encontró aquí un soporte de inspiración morisca. Mira los arcos, los niveles del fuste y el remate desde distintos ángulos.",
+        "route": "Desde el Palacio Municipal cruza por el paso señalizado hacia el malecón.",
+        "photoHint": "Mira la torre primero desde la explanada y luego desde la baranda.",
+        "question": "¿Se puede subir?",
+        "answer": "Consulta al operador si hay acceso interior. Desde el paseo se distinguen el reloj y la cúpula.",
+        "discovery": "La cúpula, los arcos y la esfera del reloj se superponen sobre un cuerpo estrecho, muy distinto del ritmo horizontal del Palacio Municipal.",
+        "lastStep": "Pasa a la baranda y vuelve la mirada al reloj con el Palacio Municipal al fondo."
+      },
+      "en": {
+        "intro": "The city’s public clock is housed in a Moorish-inspired tower. Look for its arches, layered shaft and crown from several angles.",
+        "route": "From City Hall, use the marked crossing to reach the promenade.",
+        "photoHint": "View the tower from the forecourt, then from the river rail.",
+        "question": "Can I go up?",
+        "answer": "Check with the operator for interior access. The clock and dome can be seen from the promenade.",
+        "discovery": "The dome, arches and clock face stack on a narrow shaft, contrasting with City Hall’s horizontal rhythm.",
+        "lastStep": "Move to the railing and look back at the clock with City Hall behind it."
+      },
+      "zh": {
+        "intro": "市政公共时钟安置在融合摩尔风格的塔楼内。换几个角度可看清拱形、分层塔身和塔顶。",
+        "route": "从市政厅沿标示路口过街进入滨河步道，先在前方空地看塔，再走至河边栏杆。",
+        "photoHint": "从市政厅沿标示路口过街进入滨河步道，先在前方空地看塔，再走至河边栏杆。",
+        "question": "可以登塔吗？",
+        "answer": "开放情况向运营方查询。在步道上就能看见钟面和穹顶。",
+        "discovery": "穹顶、拱饰和钟面自上而下叠在窄塔身上，与市政厅横向舒展的立面相对照。",
+        "lastStep": "走到栏杆旁回看钟楼，把后方市政厅一同纳入视野。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Torre_Morisca_de_Guayaquil.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "malecon-2000",
+      "rotonda",
+      "jardines-malecon"
+    ],
+    "kind": "monument",
+    "duration": "15–25"
+  },
+  {
+    "slug": "jardines-malecon",
+    "names": {
+      "es": "Jardines del Malecón",
+      "en": "Malecón Gardens",
+      "zh": "马雷孔花园"
+    },
+    "address": "Malecón Simón Bolívar, sector de la calle Junín, Guayaquil",
+    "management": {
+      "es": "Fundación Malecón 2000 administra el paseo del río Guayas, incluidos sus espacios exteriores de visita.",
+      "en": "Fundación Malecón 2000 administers the Guayas riverwalk, including its outdoor visitor areas.",
+      "zh": "瓜亚斯河畔长廊及其户外游览区由马雷孔2000基金会管理。"
+    },
+    "source": "https://malecon.org.ec/turismo.php",
+    "hours": {
+      "es": "Paseo principal: 07:00–00:00, según la Fundación; confirma el acceso concreto.",
+      "en": "Main promenade: 07:00–00:00, according to the foundation. Check individual entrances.",
+      "zh": "基金会公布主步道开放时间为 07:00–次日 00:00，具体入口请另查。"
+    },
+    "fare": {
+      "es": "Acceso peatonal al paseo; servicios y recintos pueden cobrar por separado.",
+      "en": "Pedestrian access to the promenade. Services and venues can charge separately.",
+      "zh": "滨河步道可步行进入，沿途服务和场馆可能另收费。"
+    },
+    "tips": {
+      "es": "Tras la lluvia, presta atención a los peldaños y al pavimento junto al agua.",
+      "en": "After rain, watch for slippery steps and paving by the water.",
+      "zh": "雨后留意河边台阶和铺装路面。"
+    },
+    "content": {
+      "es": {
+        "intro": "Los jardines son el tramo paisajístico de la renovación del Malecón 2000. La vegetación, el agua y las curvas del sendero ofrecen una lectura distinta de la ribera.",
+        "route": "Accede por Junín, recorre las curvas junto a los estanques y vuelve al paseo principal.",
+        "photoHint": "Fotografía los reflejos a baja altura desde el camino.",
+        "question": "¿Se puede atravesar con poco tiempo?",
+        "answer": "Haz un circuito corto desde Junín y sal por el mismo acceso.",
+        "discovery": "Los estanques y los senderos curvos frenan el paso del paseo principal y crean pequeños encuadres a ras de agua.",
+        "lastStep": "Al salir al paseo, sigue hacia la noria si quieres pasar del jardín al tramo abierto del río."
+      },
+      "en": {
+        "intro": "The gardens are the landscaped stretch of the Malecón 2000 redevelopment. Planting, water and curved paths create a different experience of the riverfront.",
+        "route": "Enter at Junín, follow the curves by the ponds and return to the main promenade.",
+        "photoHint": "Photograph reflections from low on the path.",
+        "question": "Can I visit briefly?",
+        "answer": "Make a small loop from Junín and use the same exit.",
+        "discovery": "Ponds and curved paths slow the pace of the main promenade and create small views at water level.",
+        "lastStep": "Back on the promenade, continue toward the wheel for the transition from garden enclosure to open river."
+      },
+      "zh": {
+        "intro": "花园是马雷孔2000更新工程中的景观段，植物、水面和曲线步道构成与开阔江岸不同的游览体验。",
+        "route": "从胡宁街入口进园，沿池塘边的弯路走一圈，再回到主步道。",
+        "photoHint": "站在路上降低拍摄角度可捕捉水面倒影。",
+        "question": "时间紧也能逛吗？",
+        "answer": "可走一个短环线，再从胡宁街离开。",
+        "discovery": "池塘与弯曲小径放慢了主步道的节奏，也提供贴近水面的小景。",
+        "lastStep": "回到主步道后可朝摩天轮走，体验从围合花园到开阔江岸的变化。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jardines_del_Malec%C3%B3n_2000.JPG",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "malecon-2000",
+      "rotonda",
+      "torre-morisca"
+    ],
+    "kind": "park",
+    "duration": "25–45"
+  },
+  {
+    "slug": "la-perla",
+    "names": {
+      "es": "La Perla",
+      "en": "La Perla Observation Wheel",
+      "zh": "珍珠摩天轮"
+    },
+    "address": "Malecón Simón Bolívar y Julián Coronel, Guayaquil",
+    "management": {
+      "es": "La operación de la noria y su boletería se consulta con La Perla. La Fundación Malecón 2000 administra el paseo fluvial donde se ubica.",
+      "en": "La Perla is the contact for wheel operation and tickets. Fundación Malecón 2000 manages the riverwalk where the wheel stands.",
+      "zh": "摩天轮运营及购票事宜可向 La Perla 查询，所在滨河步道由马雷孔2000基金会管理。"
+    },
+    "source": "https://malecon.org.ec/turismo.php",
+    "hours": {
+      "es": "Consulta la programación y la hora de apertura de puertas.",
+      "en": "Check the programme and gate opening time.",
+      "zh": "查询运行或演出、比赛的安排及开门时间。"
+    },
+    "fare": {
+      "es": "Consulta la tarifa vigente del operador o del evento.",
+      "en": "Check the current operator fare or event price.",
+      "zh": "票价以运营方或活动公告为准。"
+    },
+    "tips": {
+      "es": "Confirma la entrada indicada y el tiempo de espera antes de salir.",
+      "en": "Confirm the correct entrance and allow for queues.",
+      "zh": "出发前确认入口，并为排队留出时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "La noria se sumó a los equipamientos del extremo norte del malecón. Su estructura radial se aprecia a ras de suelo y la experiencia de cabina cambia la escala del río y del cerro.",
+        "route": "Ubica la taquilla al acercarte desde los jardines; tras el recorrido sigue al MAAC.",
+        "photoHint": "Desde la explanada haz una toma oblicua para incluir el aro completo.",
+        "question": "¿Se puede fotografiar sin montar?",
+        "answer": "Sí, el paseo cercano ofrece vistas de la estructura.",
+        "discovery": "El interés de la noria está en comparar el perfil de Las Peñas, las curvas de los jardines y la anchura del Guayas al ganar altura.",
+        "lastStep": "Después de la vuelta, mira desde la explanada qué edificios reconociste antes de continuar al museo."
+      },
+      "en": {
+        "intro": "The wheel joined the attractions at the northern end of the riverwalk. The radial structure stands out from ground level, while the cabin changes your perspective on the river and hill.",
+        "route": "Find the ticket office when approaching from the gardens, then continue to the MAAC.",
+        "photoHint": "Shoot obliquely from the forecourt to fit the full wheel in frame.",
+        "question": "Can I take photos without riding?",
+        "answer": "The adjacent promenade offers views of the structure.",
+        "discovery": "As the wheel rises, compare the Las Peñas hillside, the garden curves and the breadth of the Guayas.",
+        "lastStep": "After the ride, look from the forecourt for the buildings you recognised before continuing to the museum."
+      },
+      "zh": {
+        "intro": "摩天轮位于滨河长廊北端。地面适合观察放射形骨架，乘舱升高则能换个视角看江面与山丘。",
+        "route": "由花园方向找售票处，游览后可继续去MAAC。",
+        "photoHint": "站在前方空地斜拍，较容易纳入整个轮廓。",
+        "question": "不乘坐也能拍照吗？",
+        "answer": "相邻步道可拍到摩天轮。",
+        "discovery": "车舱升高后，可对照拉斯佩尼亚斯山坡、花园的曲线以及瓜亚斯河的宽度。",
+        "lastStep": "乘坐结束后先在广场辨认刚才看到的建筑，再前往博物馆。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:La_Perla_en_el_centro_de_Guayaquil.jpg",
+      "author": "JorgeAlejanDroo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "malecon-2000",
+      "rotonda",
+      "torre-morisca"
+    ],
+    "kind": "ride",
+    "duration": "25–50"
+  },
+  {
+    "slug": "maac",
+    "names": {
+      "es": "Museo Antropológico y de Arte Contemporáneo",
+      "en": "MAAC Museum",
+      "zh": "人类学与当代艺术博物馆"
+    },
+    "address": "Malecón Simón Bolívar y Loja, Guayaquil",
+    "management": {
+      "es": "El MAAC integra la red pública de museos del Ecuador. Consulta al equipo del museo por las salas y la programación.",
+      "en": "The MAAC is part of Ecuador’s public museum network. Check with museum staff for gallery access and programmes.",
+      "zh": "MAAC 属于厄瓜多尔公共博物馆网络，展厅开放及活动安排可向馆方查询。"
+    },
+    "source": "https://www.turismo.gob.ec/wp-content/uploads/2019/01/Directorio-Nacional-de-Museos-2019.pdf",
+    "hours": {
+      "es": "Revisa el horario y las salas habilitadas con la administración.",
+      "en": "Check hours and gallery availability with the venue.",
+      "zh": "出发前向场馆查询开放时间和当天可参观展区。"
+    },
+    "fare": {
+      "es": "Consulta las condiciones de entrada y de las visitas especiales.",
+      "en": "Check admission arrangements and special tours with the venue.",
+      "zh": "入场及特别导览条件以场馆公告为准。"
+    },
+    "tips": {
+      "es": "Comprueba si hay restricciones de fotografía o de equipaje.",
+      "en": "Check for photography or bag restrictions.",
+      "zh": "留意拍照及携带行李的规定。"
+    },
+    "content": {
+      "es": {
+        "intro": "El MAAC pone colecciones arqueológicas y arte contemporáneo en diálogo en el extremo norte del malecón. El volumen del museo marca la transición hacia Las Peñas.",
+        "route": "Empieza en el acceso de Loja y pregunta qué salas están abiertas. Deja una pausa entre arqueología y muestras temporales.",
+        "photoHint": "Para el exterior, usa la explanada.",
+        "question": "¿Hay fotografía en las salas?",
+        "answer": "Verifica los avisos de cada exposición antes de usar la cámara.",
+        "discovery": "El recorrido combina piezas arqueológicas con exposiciones de arte. Reserva tiempo para leer procedencias y cronologías antes de pasar a las salas temporales.",
+        "lastStep": "Sal por Loja y continúa hacia Numa Pompilio Llona para enlazar con la visita al barrio histórico."
+      },
+      "en": {
+        "intro": "The MAAC brings archaeological collections and contemporary art together at the north end of the riverwalk. The museum building marks the approach to Las Peñas.",
+        "route": "Enter at Loja and ask which galleries are open. Allow a break between archaeology and temporary exhibitions.",
+        "photoHint": "Use the forecourt to photograph the exterior.",
+        "question": "Can I photograph inside?",
+        "answer": "Check the notices in each gallery before using a camera.",
+        "discovery": "The museum pairs archaeological collections with art exhibitions. Read the objects’ provenance and dates before moving to the temporary galleries.",
+        "lastStep": "Exit at Loja and continue to Numa Pompilio Llona to link the visit with the historic neighbourhood."
+      },
+      "zh": {
+        "intro": "MAAC在滨河长廊北端同时展出考古藏品和当代艺术，馆舍也标记了长廊通向拉斯佩尼亚斯的过渡地带。",
+        "route": "从洛哈街一侧入馆，先问当天开放哪些展厅。",
+        "photoHint": "分开安排考古展与临时展，外观可从馆前空地拍。",
+        "question": "展厅内能拍照吗？",
+        "answer": "使用相机前先看各展厅的规定。",
+        "discovery": "馆内把考古藏品与艺术展览并置。转入临展前，可先读展签中的出土地和年代。",
+        "lastStep": "从洛哈街出口前往努马·蓬皮利奥·略纳街，接着游览历史街区。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_Antropologico_y_de_Arte_Contemporaneo_%28entrada%29.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "mercado-artesanal",
+      "las-penas"
+    ],
+    "kind": "museum",
+    "duration": "60–100"
+  },
+  {
+    "slug": "las-penas",
+    "names": {
+      "es": "Barrio Las Peñas",
+      "en": "Las Peñas Historic Quarter",
+      "zh": "拉斯佩尼亚斯历史街区"
+    },
+    "address": "Calle Numa Pompilio Llona, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "Las Peñas es un barrio patrimonial al pie del cerro Santa Ana. En Numa Pompilio Llona, los balcones, las puertas estrechas y los frentes de madera muestran la escala de la vivienda antigua.",
+        "route": "Entra desde el norte del malecón, sigue Numa Pompilio Llona y regresa por la misma calle.",
+        "photoHint": "Fotografía la sucesión de balcones desde una esquina amplia.",
+        "question": "¿Hay que subir al faro?",
+        "answer": "La calle histórica puede recorrerse por separado y sin subir toda la escalinata.",
+        "discovery": "En Numa Pompilio Llona, compara balcones, ventanas y escala de las fachadas antes de tomar la escalinata. Así se distingue el barrio bajo del circuito del cerro.",
+        "lastStep": "Termina en el enlace hacia Puerto Santa Ana o regresa por la misma calle si prefieres evitar las escaleras."
+      },
+      "en": {
+        "intro": "Las Peñas is a heritage neighborhood at the foot of Santa Ana Hill. On Numa Pompilio Llona, balconies, narrow doors and wooden fronts reveal the scale of older homes.",
+        "route": "Enter from the north end of the riverwalk, follow Numa Pompilio Llona and return along the same street.",
+        "photoHint": "Photograph the line of balconies from a wide corner.",
+        "question": "Do I have to climb to the lighthouse?",
+        "answer": "The historic street can be visited on its own without taking the full staircase.",
+        "discovery": "On Numa Pompilio Llona, compare balconies, windows and façade scale before taking the stairs. This separates the lower historic street from the hill circuit.",
+        "lastStep": "Finish at the link to Puerto Santa Ana, or retrace the same street to avoid the stairs."
+      },
+      "zh": {
+        "intro": "拉斯佩尼亚斯位于圣安娜山脚，是瓜亚基尔的历史街区。沿努马·蓬皮利奥·略纳街可观察旧住宅的阳台、窄门和木立面。",
+        "route": "从长廊北端进入，沿历史街主街往返。",
+        "photoHint": "可从较宽的街角取景，把连续的阳台拍进一张照片。",
+        "question": "一定要登灯塔吗？",
+        "answer": "老街可以单独游览，无需走完整条登山阶梯。",
+        "discovery": "登阶前先在努马·蓬皮利奥·略纳街比较阳台、窗户和立面尺度，分清山脚街区与登山路线。",
+        "lastStep": "可走到通往圣安娜港的衔接处，也可沿原街折返避开台阶。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Street_in_Las_Pe%C3%B1as.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "mercado-artesanal",
+      "maac"
+    ],
+    "kind": "street",
+    "duration": "35–60"
+  },
+  {
+    "slug": "faro-santa-ana",
+    "names": {
+      "es": "Faro del Cerro Santa Ana",
+      "en": "Santa Ana Hill Lighthouse",
+      "zh": "圣安娜山灯塔"
+    },
+    "address": "Escalinata Diego Noboa y Arteta, Cerro Santa Ana, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "Verifica la apertura del acceso al mirador antes de subir.",
+      "en": "Check the lookout access before going uphill.",
+      "zh": "上山前先确认观景台入口开放。"
+    },
+    "fare": {
+      "es": "Verifica el acceso a las instalaciones de la cima.",
+      "en": "Check whether any summit facilities have separate admission.",
+      "zh": "山顶设施是否另收费以现场规定为准。"
+    },
+    "tips": {
+      "es": "Sube con luz de día y reserva tiempo para el regreso.",
+      "en": "Climb in daylight and allow time for the descent.",
+      "zh": "建议在白天登山，给下山留够时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El faro corona el cerro que domina el barrio de Las Peñas. El cilindro rayado y el mirador ofrecen dos referencias visuales: la cima desde abajo y el río desde arriba.",
+        "route": "Empieza en la base de la escalinata, haz pausas en los descansos y llega al mirador antes de bajar por la ruta señalizada.",
+        "photoHint": "Prueba un encuadre con el río detrás.",
+        "question": "¿Puedo ver el panorama sin entrar al faro?",
+        "answer": "El entorno de la cima ofrece vistas exteriores cuando está habilitado.",
+        "discovery": "En la cima, identifica el corredor del Malecón 2000 al pie del cerro y el Guayas más allá de las cubiertas de Las Peñas.",
+        "lastStep": "Antes de bajar, compara la vista desde el entorno de la capilla con la del mirador del faro."
+      },
+      "en": {
+        "intro": "The lighthouse crowns the hill above Las Peñas. Its striped cylinder and lookout give you two viewpoints: the summit from below and the river from above.",
+        "route": "Start at the foot of the stairs, pause at the landings and reach the lookout before descending on the signed route.",
+        "photoHint": "Try a frame with the river behind.",
+        "question": "Can I enjoy the view without entering the tower?",
+        "answer": "When open, the summit area has outdoor viewpoints.",
+        "discovery": "At the summit, pick out Malecón 2000 at the foot of the hill and the Guayas beyond the Las Peñas rooftops.",
+        "lastStep": "Before descending, compare the view near the chapel with the lighthouse lookout."
+      },
+      "zh": {
+        "intro": "灯塔立在拉斯佩尼亚斯上方。山脚可拍条纹圆塔，山顶则能从观景区俯瞰瓜亚斯河。",
+        "route": "从山脚阶梯入口开始，每到台阶平台可稍作休息；抵达观景区后沿标示路线下山。",
+        "photoHint": "可试着以江面为背景构图。",
+        "question": "不进灯塔能看风景吗？",
+        "answer": "山顶区域开放时，可在室外观景。",
+        "discovery": "到山顶辨认山脚的马雷孔2000，以及拉斯佩尼亚斯屋顶后方的瓜亚斯河。",
+        "lastStep": "下山前对照小堂周边与灯塔观景台的视角。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Faro_de_Guayaquil.jpg",
+      "author": "Padaguan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "capilla-santa-ana",
+      "las-penas",
+      "puerto-santa-ana"
+    ],
+    "kind": "view",
+    "duration": "50–80"
+  },
+  {
+    "slug": "capilla-santa-ana",
+    "names": {
+      "es": "Capilla Santa Ana",
+      "en": "Santa Ana Chapel",
+      "zh": "圣安娜山顶小堂"
+    },
+    "address": "Cima de la escalinata Diego Noboa y Arteta, Guayaquil",
+    "management": {
+      "es": "El Municipio informa sobre los accesos al mirador. Consulta en la capilla el horario de apertura de su interior.",
+      "en": "The city provides information on access to the lookout. Check at the chapel for interior opening times.",
+      "zh": "观景区通行信息可查市政府公告，小堂内部开放时间以现场告示为准。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "El acceso depende del horario del templo y de las celebraciones.",
+      "en": "Access depends on church hours and services.",
+      "zh": "开放取决于堂区时间及礼拜安排。"
+    },
+    "fare": {
+      "es": "Consulta al templo si hay visitas guiadas o condiciones de entrada.",
+      "en": "Ask the church about guided visits or admission arrangements.",
+      "zh": "导览及入内安排请向堂方查询。"
+    },
+    "tips": {
+      "es": "Mantén el silencio durante el culto y consulta antes de tomar fotos.",
+      "en": "Keep quiet during services and ask before taking photos.",
+      "zh": "礼拜时保持安静，拍照前先询问。"
+    },
+    "content": {
+      "es": {
+        "intro": "La capilla forma parte del conjunto del mirador del cerro. Su pequeño frente religioso se distingue del perfil industrial del río y de la silueta del faro.",
+        "route": "Sube por la escalinata señalizada y detente ante el umbral.",
+        "photoHint": "Encuadra puerta y cubierta desde el borde de la plazoleta, dejando libre el acceso.",
+        "question": "¿Puedo entrar?",
+        "answer": "La visita interior depende de la apertura; el frente se observa desde la plazoleta.",
+        "discovery": "La capilla ocupa la misma cumbre que el faro y actúa como remate de la escalinata. Su escala pequeña se entiende mejor desde el espacio abierto de la cima.",
+        "lastStep": "Rodea por el espacio público disponible y deja el último vistazo para la vista hacia el río."
+      },
+      "en": {
+        "intro": "The chapel forms part of the hilltop lookout. Its small religious façade stands apart from the industrial river skyline and the silhouette of the lighthouse.",
+        "route": "Follow the marked stairs and pause before the threshold.",
+        "photoHint": "Frame the door and roof from the edge of the square, leaving the entrance clear.",
+        "question": "Can I go inside?",
+        "answer": "Interior access depends on opening arrangements. The front can be seen from the square.",
+        "discovery": "The chapel shares the summit with the lighthouse and marks the end of the climb. The open hilltop gives the clearest sense of its small scale.",
+        "lastStep": "Use the open public space around the chapel, then finish facing the river."
+      },
+      "zh": {
+        "intro": "小堂位于圣安娜山顶观景区。小巧的宗教建筑立面与江边工业景观和灯塔轮廓形成对照。",
+        "route": "沿指示阶梯登山，到门前停留。",
+        "photoHint": "从小广场边缘拍门口和屋顶，留出进出通道。",
+        "question": "可以入内吗？",
+        "answer": "室内视开放安排而定，小堂正面可从广场观察。",
+        "discovery": "小堂与灯塔同在山顶，也是登山台阶的终点之一。从开阔处可更清楚地理解它的小巧尺度。",
+        "lastStep": "沿可通行的公共空间绕行，最后朝河面观景。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Capilla_Santa_Ana_de_Guayaquil.jpg",
+      "author": "Natalia Cartolini",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "faro-santa-ana",
+      "las-penas",
+      "museo-bomberos"
+    ],
+    "kind": "church",
+    "duration": "15–25"
+  },
+  {
+    "slug": "puerto-santa-ana",
+    "names": {
+      "es": "Puerto Santa Ana",
+      "en": "Puerto Santa Ana",
+      "zh": "圣安娜港滨水区"
+    },
+    "address": "Paseo ribereño de Puerto Santa Ana, acceso desde Numa Pompilio Llona, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "Consulta el horario de los accesos del paseo.",
+      "en": "Check opening arrangements for waterfront entrances.",
+      "zh": "出发前查询滨水区各入口开放安排。"
+    },
+    "fare": {
+      "es": "Consulta por separado las actividades o servicios de pago.",
+      "en": "Check fees for activities or additional services separately.",
+      "zh": "收费活动或附加服务需另查。"
+    },
+    "tips": {
+      "es": "Tras la lluvia, presta atención a los peldaños y al pavimento junto al agua.",
+      "en": "After rain, watch for slippery steps and paving by the water.",
+      "zh": "雨后留意河边台阶和铺装路面。"
+    },
+    "content": {
+      "es": {
+        "intro": "La reconversión del antiguo sector cervecero añadió edificios recientes a la ribera. Busca la transición entre los volúmenes industriales recuperados y las torres nuevas.",
+        "route": "Desde Las Peñas sigue la ribera hasta los edificios del antiguo complejo; termina frente a las torres.",
+        "photoHint": "Encuadra ambas generaciones de arquitectura desde el paseo.",
+        "question": "¿Es un muelle de embarque?",
+        "answer": "El paseo de este sector se visita a pie; un servicio fluvial requiere su propio punto de salida.",
+        "discovery": "El borde peatonal permite comparar el antiguo conjunto cervecero con las torres recientes sin perder de vista el río.",
+        "lastStep": "Haz una parada junto al Edificio Astillero para decidir si añadir el museo de música."
+      },
+      "en": {
+        "intro": "Redevelopment of the former brewery district added contemporary buildings to the riverfront. Look for the transition between reused industrial volumes and the newer towers.",
+        "route": "Follow the river from Las Peñas to the former brewery complex and finish by the towers.",
+        "photoHint": "Frame both generations of architecture from the promenade.",
+        "question": "Is it a boarding pier?",
+        "answer": "Visit the riverwalk on foot. River services have their own boarding points.",
+        "discovery": "The river path lets you compare the former brewery complex with newer towers while keeping the river in view.",
+        "lastStep": "Pause at Edificio Astillero to decide whether to add the music museum."
+      },
+      "zh": {
+        "intro": "旧啤酒厂片区更新后，滨河地带增添了现代建筑。可比较保留下来的工业建筑体量与新高楼之间的过渡。",
+        "route": "从拉斯佩尼亚斯沿河走到旧厂区，再到高楼一带。",
+        "photoHint": "从滨河步道可把不同时期的建筑拍入同一画面。",
+        "question": "这里是上船码头吗？",
+        "answer": "这个滨水区适合步行，乘船需找相应服务的登船点。",
+        "discovery": "沿河步道可边看水面，边比较旧啤酒厂建筑群与近年兴建的高楼。",
+        "lastStep": "在阿斯蒂列罗大楼附近停留，决定是否加访音乐博物馆。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Puerto_Santa_Ana._Guayaquil%2C_Guayas%2C_Ecuador.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "mercado-artesanal",
+      "maac"
+    ],
+    "kind": "park",
+    "duration": "35–55"
+  },
+  {
+    "slug": "museo-julio-jaramillo",
+    "names": {
+      "es": "Museo de la Música Popular Julio Jaramillo",
+      "en": "Julio Jaramillo Popular Music Museum",
+      "zh": "胡里奥·哈拉米略流行音乐博物馆"
+    },
+    "address": "Edificio Astillero, Puerto Santa Ana, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil administra el museo como parte de su circuito cultural y publica las condiciones de visita.",
+      "en": "The Municipality of Guayaquil runs the museum as part of its cultural circuit and publishes visitor information.",
+      "zh": "博物馆由瓜亚基尔市政府管理，是市立文化游览线路的一站，参观安排由市政府公布。"
+    },
+    "source": "https://guayaquil.gob.ec/descubre-cultura-historia-guayaquil-caminando-museos/",
+    "hours": {
+      "es": "Martes a sábado, 10:00–17:00 según la Alcaldía; verifica feriados.",
+      "en": "Tuesday–Saturday, 10:00–17:00 according to the city; check holidays.",
+      "zh": "市政府公布为周二至周六 10:00–17:00，节日时间请另查。"
+    },
+    "fare": {
+      "es": "Gratuita según el circuito municipal.",
+      "en": "Free according to the municipal museum guide.",
+      "zh": "据市立博物馆游览指南，免费参观。"
+    },
+    "tips": {
+      "es": "Consulta qué materiales musicales se pueden escuchar durante la visita.",
+      "en": "Ask which recordings are available to listen to during your visit.",
+      "zh": "入馆可先询问当日能否试听录音。"
+    },
+    "content": {
+      "es": {
+        "intro": "El museo municipal conserva la memoria de voces como Julio Jaramillo y Dúo Ecuador. La sede en el Edificio Astillero enlaza cultura musical y recuperación del antiguo recinto industrial.",
+        "route": "Llega por el paseo de Puerto Santa Ana y localiza el Edificio Astillero. Recorre las salas a partir de los soportes de grabación.",
+        "photoHint": "Fotografía la fachada desde el paseo.",
+        "question": "¿Es un museo dedicado a un solo cantante?",
+        "answer": "Incluye a otros intérpretes y tradiciones de la música popular ecuatoriana.",
+        "discovery": "Las grabaciones, los retratos y los objetos del escenario permiten seguir la circulación de la música popular más allá de una sola biografía.",
+        "lastStep": "Al salir, vuelve al paseo de Puerto Santa Ana para ubicar el museo dentro del antiguo complejo."
+      },
+      "en": {
+        "intro": "The municipal museum preserves the memory of performers including Julio Jaramillo and Dúo Ecuador. Its home in Edificio Astillero connects musical history with the reuse of an industrial district.",
+        "route": "Find Edificio Astillero from the Puerto Santa Ana waterfront. Use the recording formats as a starting point inside.",
+        "photoHint": "Photograph the façade from the promenade.",
+        "question": "Is it devoted to a single singer?",
+        "answer": "It also covers other performers and traditions in Ecuadorian popular music.",
+        "discovery": "Recordings, portraits and stage objects trace how popular music circulated beyond a single performer’s biography.",
+        "lastStep": "Return to the Porto Santa Ana waterfront to place the museum within the former industrial complex."
+      },
+      "zh": {
+        "intro": "市立博物馆保存胡里奥·哈拉米略、厄瓜多尔二重唱等音乐人的相关文物。馆舍位于阿斯蒂列罗大楼，串起流行音乐史与旧工业区更新。",
+        "route": "沿圣安娜港步道找阿斯蒂列罗大楼。",
+        "photoHint": "入馆后可按录音载体的变化看展，从步道拍馆舍外观。",
+        "question": "只介绍一位歌手吗？",
+        "answer": "馆内也介绍其他厄瓜多尔音乐人和流行音乐传统。",
+        "discovery": "唱片、肖像和演出物件让参观者从一位歌手的传记延伸到流行音乐传播史。",
+        "lastStep": "出馆回到圣安娜港步道，从外部辨认博物馆在旧工业建筑群中的位置。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fachada_del_Museo_de_la_M%C3%BAsica_Popular_en_Guayaquil.JPG",
+      "author": "Edjoerv",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "mercado-artesanal",
+      "maac"
+    ],
+    "kind": "museum",
+    "duration": "40–65"
+  },
+  {
+    "slug": "parque-seminario",
+    "names": {
+      "es": "Parque Seminario",
+      "en": "Seminario Park",
+      "zh": "塞米纳里奥公园"
+    },
+    "address": "Chile y 10 de Agosto, Guayaquil",
+    "management": {
+      "es": "Parques EP, la empresa pública del Municipio de Guayaquil, realiza la limpieza y el mantenimiento de este parque del centro.",
+      "en": "Parques EP, Guayaquil’s municipal parks company, cleans and maintains this downtown park.",
+      "zh": "瓜亚基尔市公园企业 Parques EP 负责清洁和维护这座市中心公园。"
+    },
+    "source": "https://guayaquil.gob.ec/mantenimiento-parques-plazas-centro-guayaquil/",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "La plaza arbolada frente a la catedral reúne un monumento ecuestre a Bolívar y las iguanas que le dan su apodo. Observa cómo los árboles enmarcan el espacio cívico.",
+        "route": "Entra desde Chile, recorre el perímetro y termina frente a la catedral.",
+        "photoHint": "Fotografía a las iguanas desde el sendero con zoom y espacio suficiente.",
+        "question": "¿Se puede alimentar a las iguanas?",
+        "answer": "Obsérvalas sin alimentarlas ni tocarlas.",
+        "discovery": "La estatua ecuestre, las iguanas y las torres de la catedral reúnen tres motivos distintos en una sola manzana.",
+        "lastStep": "Completa la vuelta por el borde de Chimborazo antes de cruzar a la catedral."
+      },
+      "en": {
+        "intro": "The leafy square opposite the cathedral combines an equestrian monument to Bolívar with the iguanas that give the park its nickname. Notice how the trees frame the civic space.",
+        "route": "Enter from Chile, circle the park and finish opposite the cathedral.",
+        "photoHint": "Photograph the iguanas from the path with zoom and plenty of distance.",
+        "question": "Can I feed the iguanas?",
+        "answer": "Watch them without feeding or touching them.",
+        "discovery": "The equestrian statue, iguanas and cathedral towers bring three distinct subjects together in one block.",
+        "lastStep": "Complete the loop along Chimborazo before crossing to the cathedral."
+      },
+      "zh": {
+        "intro": "大教堂对面的树荫广场设有玻利瓦尔骑马像，也因绿鬣蜥而有「鬣蜥公园」之称。树木围合了广场的公共空间。",
+        "route": "从智利街进入，沿外围一圈后到大教堂对面。",
+        "photoHint": "可站在步道上用变焦拍鬣蜥，保持距离。",
+        "question": "可以喂鬣蜥吗？",
+        "answer": "请保持距离观察，避免投喂或触摸。",
+        "discovery": "骑马雕像、鬣蜥与大教堂双塔，是同一街区内三类不同的观察对象。",
+        "lastStep": "沿钦博拉索街一侧走完公园，再过街去主教座堂。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ecuador_-_Guayaquil_-_Parque_seminario_-_Parque_de_las_iguanas.jpg",
+      "author": "Silva pedro",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Para orientarte en el centro, usa el Parque Seminario como referencia y continúa hacia el cruce indicado en la ficha. Las distancias entre estas paradas permiten combinarlas a pie.",
+      "en": "Use Seminario Park to get oriented downtown, then walk to the intersection in the address. These stops are close enough to combine on foot.",
+      "zh": "在市中心可以塞米纳里奥公园为参照，再步行到本页指定路口。这一组景点适合步行串联。"
+    },
+    "related": [
+      "catedral",
+      "museo-municipal",
+      "biblioteca-municipal"
+    ],
+    "kind": "park",
+    "duration": "20–35"
+  },
+  {
+    "slug": "catedral",
+    "names": {
+      "es": "Catedral Metropolitana de Guayaquil",
+      "en": "Guayaquil Metropolitan Cathedral",
+      "zh": "瓜亚基尔主教座堂"
+    },
+    "address": "Chimborazo y 10 de Agosto, frente al Parque Seminario, Guayaquil",
+    "management": {
+      "es": "La Catedral Metropolitana es un templo de la Arquidiócesis de Guayaquil. La comunidad del templo organiza el culto y el acceso interior.",
+      "en": "The Metropolitan Cathedral belongs to the Archdiocese of Guayaquil. The cathedral community sets services and interior access.",
+      "zh": "主教座堂隶属瓜亚基尔总教区，礼拜和室内开放由堂区安排。"
+    },
+    "source": "https://guayaquil.gob.ec/catedral-guayaquil-emblema-historico-centro-urbe/",
+    "hours": {
+      "es": "El acceso depende del horario del templo y de las celebraciones.",
+      "en": "Access depends on church hours and services.",
+      "zh": "开放取决于堂区时间及礼拜安排。"
+    },
+    "fare": {
+      "es": "Consulta al templo si hay visitas guiadas o condiciones de entrada.",
+      "en": "Ask the church about guided visits or admission arrangements.",
+      "zh": "导览及入内安排请向堂方查询。"
+    },
+    "tips": {
+      "es": "Mantén el silencio durante el culto y consulta antes de tomar fotos.",
+      "en": "Keep quiet during services and ask before taking photos.",
+      "zh": "礼拜时保持安静，拍照前先询问。"
+    },
+    "content": {
+      "es": {
+        "intro": "En este punto del centro hubo una iglesia matriz desde la época colonial. El templo actual, dedicado a San Pedro, se reconoce por sus dos torres y los arcos ojivales interiores.",
+        "route": "Empieza en el Parque Seminario para ver la fachada completa.",
+        "photoHint": "Cruza por la esquina y recorre el interior solo cuando el culto lo permita.",
+        "question": "¿Cuál es el mejor encuadre exterior?",
+        "answer": "Retrocede hasta el borde del parque para ver las dos torres.",
+        "discovery": "Desde el parque, fíjate en la pareja de torres y el eje de entrada; en el interior, cuando esté abierto, compara la altura de la nave con las capillas laterales.",
+        "lastStep": "Después de la visita, continúa por el entorno de Sucre hacia el museo y la biblioteca."
+      },
+      "en": {
+        "intro": "A parish church has occupied this downtown spot since the colonial period. The present cathedral, dedicated to Saint Peter, is recognizable for its twin towers and pointed interior arches.",
+        "route": "Start in Seminario Park for the full façade.",
+        "photoHint": "Cross at the corner and visit the interior when services allow.",
+        "question": "Where can I frame the exterior?",
+        "answer": "Step back to the park edge to fit both towers.",
+        "discovery": "From the park, note the paired towers and entrance axis. When open, compare the height of the nave with the side chapels.",
+        "lastStep": "After the visit, continue toward Sucre for the museum and library."
+      },
+      "zh": {
+        "intro": "殖民时期这里已有主教堂。现在的大教堂奉圣彼得为主保，双塔和内部尖拱是主要观察点。",
+        "route": "先在塞米纳里奥公园看完整立面，再从街角过街。",
+        "photoHint": "避开礼拜时段参观内部。",
+        "question": "外观从哪里拍较完整？",
+        "answer": "退到公园边缘可同时纳入两座塔。",
+        "discovery": "在公园看双塔与入口轴线；开放时可入内比较中殿与侧边小堂的高度。",
+        "lastStep": "参观后朝苏克雷街方向走，可接续博物馆与图书馆。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_catedral_guayaquil.jpg",
+      "author": "Paulakindsvater",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Para orientarte en el centro, usa el Parque Seminario como referencia y continúa hacia el cruce indicado en la ficha. Las distancias entre estas paradas permiten combinarlas a pie.",
+      "en": "Use Seminario Park to get oriented downtown, then walk to the intersection in the address. These stops are close enough to combine on foot.",
+      "zh": "在市中心可以塞米纳里奥公园为参照，再步行到本页指定路口。这一组景点适合步行串联。"
+    },
+    "related": [
+      "parque-seminario",
+      "museo-municipal",
+      "biblioteca-municipal"
+    ],
+    "kind": "church",
+    "duration": "20–40"
+  },
+  {
+    "slug": "museo-municipal",
+    "names": {
+      "es": "Museo Municipal de Guayaquil",
+      "en": "Guayaquil Municipal Museum",
+      "zh": "瓜亚基尔市立博物馆"
+    },
+    "address": "Sucre y Pedro Carbo, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil administra el museo como parte de su circuito cultural y publica las condiciones de visita.",
+      "en": "The Municipality of Guayaquil runs the museum as part of its cultural circuit and publishes visitor information.",
+      "zh": "博物馆由瓜亚基尔市政府管理，是市立文化游览线路的一站，参观安排由市政府公布。"
+    },
+    "source": "https://guayaquil.gob.ec/descubre-cultura-historia-guayaquil-caminando-museos/",
+    "hours": {
+      "es": "Martes a sábado, 09:00–17:30 según la Alcaldía; verifica feriados.",
+      "en": "Tuesday–Saturday, 09:00–17:30 according to the city; check holidays.",
+      "zh": "市政府公布为周二至周六 09:00–17:30，节日时间请另查。"
+    },
+    "fare": {
+      "es": "Gratuita según el circuito municipal.",
+      "en": "Free according to the municipal museum guide.",
+      "zh": "据市立博物馆游览指南，免费参观。"
+    },
+    "tips": {
+      "es": "Reserva tiempo para las salas que te interesan y revisa las reglas de fotografía.",
+      "en": "Allow enough time for the galleries that interest you and check photography rules.",
+      "zh": "给感兴趣的展厅预留时间，拍照前查看规定。"
+    },
+    "content": {
+      "es": {
+        "intro": "Las colecciones municipales presentan la historia local desde las sociedades prehispánicas hasta la república. Sigue la cronología para relacionar los objetos con las transformaciones de la ciudad.",
+        "route": "Entra por Sucre y Pedro Carbo, empieza por arqueología y sigue a las salas republicanas.",
+        "photoHint": "Toma una foto de la entrada desde la esquina, sin detenerte en la calzada.",
+        "question": "¿Cuánto reservar?",
+        "answer": "La ruta municipal propone alrededor de hora y media para este museo.",
+        "discovery": "Organiza la visita por periodos: empieza con las piezas arqueológicas y contrasta cómo cambian los objetos y los relatos en las salas republicanas.",
+        "lastStep": "Al salir, identifica la entrada independiente de la biblioteca del mismo sector."
+      },
+      "en": {
+        "intro": "Municipal collections trace local history from pre-Hispanic societies to the republic. Follow the chronology to relate objects to the changing city.",
+        "route": "Enter at Sucre and Pedro Carbo, begin with archaeology and continue to the republican galleries.",
+        "photoHint": "Photograph the entrance from the corner without stopping in the street.",
+        "question": "How much time should I allow?",
+        "answer": "The municipal route suggests around an hour and a half for this museum.",
+        "discovery": "Organise your visit by period. Start with the archaeological objects and compare how the objects and stories change in the republican galleries.",
+        "lastStep": "On leaving, identify the library’s separate entrance in the same area."
+      },
+      "zh": {
+        "intro": "市立馆藏从前西班牙时期讲到共和国时期，可按时间线了解展品与城市变迁的关系。",
+        "route": "从苏克雷街和佩德罗·卡尔沃街交口入馆，先看考古展，再走到共和国展厅。",
+        "photoHint": "从街角拍入口，勿停在马路上。",
+        "question": "预留多长时间？",
+        "answer": "市政府的博物馆路线建议在此安排约一个半小时。",
+        "discovery": "按年代组织参观：先看考古展品，再比较共和时期展厅中的物件与叙事有何变化。",
+        "lastStep": "出馆后，在同一街区辨认市立图书馆的独立入口。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_municipal_de_Guayaquil_2020.jpg",
+      "author": "Pablo Jarrín",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Para orientarte en el centro, usa el Parque Seminario como referencia y continúa hacia el cruce indicado en la ficha. Las distancias entre estas paradas permiten combinarlas a pie.",
+      "en": "Use Seminario Park to get oriented downtown, then walk to the intersection in the address. These stops are close enough to combine on foot.",
+      "zh": "在市中心可以塞米纳里奥公园为参照，再步行到本页指定路口。这一组景点适合步行串联。"
+    },
+    "related": [
+      "parque-seminario",
+      "catedral",
+      "biblioteca-municipal",
+      "plaza-administracion"
+    ],
+    "kind": "museum",
+    "duration": "60–100"
+  },
+  {
+    "slug": "biblioteca-municipal",
+    "names": {
+      "es": "Biblioteca Municipal de Guayaquil",
+      "en": "Guayaquil Municipal Library",
+      "zh": "瓜亚基尔市立图书馆"
+    },
+    "address": "Pedro Carbo y Sucre, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "Consulta el horario del servicio de lectura o archivo que necesitas.",
+      "en": "Check the hours of the reading room or archive you need.",
+      "zh": "先查所需阅览室或档案服务的开放时间。"
+    },
+    "fare": {
+      "es": "Consulta directamente las condiciones de cada servicio.",
+      "en": "Ask the library about access to individual services.",
+      "zh": "不同服务的使用条件可向馆方查询。"
+    },
+    "tips": {
+      "es": "Lleva el título, autor o fecha aproximada cuando consultes un fondo.",
+      "en": "Bring a title, author or approximate date if consulting a collection.",
+      "zh": "查馆藏时可准备标题、作者或大概年代。"
+    },
+    "content": {
+      "es": {
+        "intro": "La biblioteca municipal custodia parte de la memoria escrita de la ciudad. Su presencia junto al museo concentra servicios de lectura e historia en la misma manzana.",
+        "route": "Llega desde la catedral por el centro, identifica la entrada de biblioteca y pregunta en recepción por el servicio que necesitas.",
+        "photoHint": "Fotografía el frente desde la acera opuesta.",
+        "question": "¿Se accede libremente a todo el material?",
+        "answer": "La consulta de colecciones especiales puede requerir instrucciones de la biblioteca.",
+        "discovery": "La biblioteca es una parada de consulta y lectura. Si buscas historia urbana, lleva un nombre, dirección antigua o tema para orientar tu pregunta al personal.",
+        "lastStep": "Para completar la visita, vuelve a Sucre y localiza la entrada del museo antes de seguir al río."
+      },
+      "en": {
+        "intro": "The municipal library safeguards part of the city's written record. Its position by the museum puts reading services and local history on the same block.",
+        "route": "Walk from the cathedral, identify the library entrance and ask at reception for the service you need.",
+        "photoHint": "Photograph the front from the opposite sidewalk.",
+        "question": "Can I browse all materials freely?",
+        "answer": "Special collections may have separate access procedures.",
+        "discovery": "The library is a stop for reading and research. For local history, bring a name, older address or subject to help staff direct your enquiry.",
+        "lastStep": "To round off the stop, return to Sucre and locate the museum entrance before continuing to the river."
+      },
+      "zh": {
+        "intro": "市立图书馆保存瓜亚基尔的部分书面城市记忆。它和博物馆同街区，方便把阅读查询与历史参观排在一起。",
+        "route": "从大教堂步行抵达，确认图书馆入口，在服务台询问所需服务。",
+        "photoHint": "可在对面人行道拍摄立面。",
+        "question": "所有资料都能直接阅览吗？",
+        "answer": "特藏资料可能有单独的申请流程。",
+        "discovery": "图书馆适合阅读和查阅资料。如想了解城市史，可带上人名、旧地址或主题，方便工作人员指引。",
+        "lastStep": "结束后可返回苏克雷街，辨认博物馆入口，再向河边走。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:SageoEG_-_Biblioteca_Municipal_de_Guayaquil_001.jpg",
+      "author": "Sageo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Para orientarte en el centro, usa el Parque Seminario como referencia y continúa hacia el cruce indicado en la ficha. Las distancias entre estas paradas permiten combinarlas a pie.",
+      "en": "Use Seminario Park to get oriented downtown, then walk to the intersection in the address. These stops are close enough to combine on foot.",
+      "zh": "在市中心可以塞米纳里奥公园为参照，再步行到本页指定路口。这一组景点适合步行串联。"
+    },
+    "related": [
+      "parque-seminario",
+      "catedral",
+      "museo-municipal"
+    ],
+    "kind": "library",
+    "duration": "25–50"
+  },
+  {
+    "slug": "palacio-municipal",
+    "names": {
+      "es": "Palacio Municipal de Guayaquil",
+      "en": "Guayaquil City Hall",
+      "zh": "瓜亚基尔市政厅"
+    },
+    "address": "Malecón Simón Bolívar y 10 de Agosto, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "Consulta los horarios de atención para entrar al edificio.",
+      "en": "Check office hours for access to the building.",
+      "zh": "如需进入市政厅，请查询办公时间。"
+    },
+    "fare": {
+      "es": "La observación exterior se hace desde el espacio público.",
+      "en": "The exterior can be viewed from public space.",
+      "zh": "可在公共空间观看建筑外观。"
+    },
+    "tips": {
+      "es": "Deja libres los accesos de trabajo y atención al público.",
+      "en": "Keep staff and visitor entrances clear.",
+      "zh": "避免占用办公和办事通道。"
+    },
+    "content": {
+      "es": {
+        "intro": "La sede municipal forma parte del frente cívico histórico del río. Desde el malecón se aprecia el ritmo de las columnas y, de cerca, la escala de los soportales.",
+        "route": "Empieza en la Torre Morisca y cruza en el paso señalizado.",
+        "photoHint": "Recorre la acera del edificio y regresa al malecón para una panorámica frontal.",
+        "question": "¿Hay visitas al interior?",
+        "answer": "Es una sede administrativa. Verifica con el Municipio si hay recorridos públicos.",
+        "discovery": "En la fachada, busca cómo la columnata y los huecos repetidos ordenan el frente cívico. La vista desde el malecón permite leer su conjunto.",
+        "lastStep": "Regresa al paseo por el cruce señalizado y compara las dos siluetas del palacio y la torre."
+      },
+      "en": {
+        "intro": "City Hall forms part of the historic civic frontage on the river. The promenade reveals the rhythm of the columns, while the sidewalk shows the scale of the arcades.",
+        "route": "Start at the clock tower and use the marked crossing.",
+        "photoHint": "Follow the building's sidewalk and return to the waterfront for a full frontal view.",
+        "question": "Can I tour the interior?",
+        "answer": "This is a working administrative building. Ask the city about public visits.",
+        "discovery": "Look for how the colonnade and repeated openings organise the civic façade. The riverwalk gives you a view of the whole frontage.",
+        "lastStep": "Return via the marked crossing and compare the silhouettes of City Hall and the clock tower."
+      },
+      "zh": {
+        "intro": "市政厅是河畔历史市政建筑群的一部分。对岸步道适合看柱列节奏，靠近后可观察骑楼尺度。",
+        "route": "从钟楼出发，走标示人行过街点，沿市政厅人行道观察，再返回步道拍完整正面。",
+        "photoHint": "从钟楼出发，走标示人行过街点，沿市政厅人行道观察，再返回步道拍完整正面。",
+        "question": "能参观内部吗？",
+        "answer": "这是办公场所，有兴趣可向市政府查询公共导览。",
+        "discovery": "观察柱列和重复的门窗如何组织市政立面。站在滨河步道可看全整段正面。",
+        "lastStep": "从标示过街点回到步道，对照市政厅与钟楼的轮廓。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Municipioguayaquil.JPG",
+      "author": "Rototo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo, esta visita queda hacia el extremo este de la avenida 9 de Octubre. En taxi, especifica el acceso indicado en la dirección: el paseo fluvial tiene varias entradas.",
+      "en": "From Baquerizo Plaza, the destination is toward the eastern end of 9 de Octubre Avenue. Give a taxi driver the access point in the address, since the riverwalk has several entrances.",
+      "zh": "景点位于从巴克里索广场沿十月九日大道向东的瓜亚斯河一侧。滨河长廊入口较多，打车可报本页所写入口。"
+    },
+    "related": [
+      "malecon-2000",
+      "rotonda",
+      "torre-morisca",
+      "plaza-administracion"
+    ],
+    "kind": "building",
+    "duration": "15–30"
+  },
+  {
+    "slug": "san-francisco",
+    "names": {
+      "es": "Iglesia de San Francisco",
+      "en": "San Francisco Church",
+      "zh": "圣弗朗西斯科教堂"
+    },
+    "address": "Av. 9 de Octubre y Pedro Carbo, Guayaquil",
+    "management": {
+      "es": "La comunidad franciscana del templo atiende el culto y el acceso a su interior. La plaza es de uso público.",
+      "en": "The church’s Franciscan community looks after services and interior access. The square is public space.",
+      "zh": "堂内礼拜与入内参观由教堂的方济各会团体安排，门前广场为公共空间。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Guayaquil)",
+    "hours": {
+      "es": "El acceso depende del horario del templo y de las celebraciones.",
+      "en": "Access depends on church hours and services.",
+      "zh": "开放取决于堂区时间及礼拜安排。"
+    },
+    "fare": {
+      "es": "Consulta al templo si hay visitas guiadas o condiciones de entrada.",
+      "en": "Ask the church about guided visits or admission arrangements.",
+      "zh": "导览及入内安排请向堂方查询。"
+    },
+    "tips": {
+      "es": "Mantén el silencio durante el culto y consulta antes de tomar fotos.",
+      "en": "Keep quiet during services and ask before taking photos.",
+      "zh": "礼拜时保持安静，拍照前先询问。"
+    },
+    "content": {
+      "es": {
+        "intro": "También conocida como Nuestra Señora de los Ángeles, ocupa un punto destacado de la avenida. Las torres y los arcos del frente se observan mejor desde el espacio abierto de la plaza.",
+        "route": "Camina desde Centenario por la avenida, detente en la plaza y entra si el templo recibe visitantes.",
+        "photoHint": "Fotografía la fachada desde el centro del espacio abierto.",
+        "question": "¿Se puede combinar con el malecón?",
+        "answer": "Sigue por la misma avenida hasta el monumento de la Rotonda.",
+        "discovery": "La iglesia funciona como hito entre el Centenario y el río. Desde la plaza se aprecia cómo las torres sobresalen del corredor comercial.",
+        "lastStep": "Al salir a la plaza, vuelve a la avenida para continuar hacia La Rotonda."
+      },
+      "en": {
+        "intro": "Also known as Our Lady of the Angels, this church occupies a prominent point on the avenue. The open square gives a clear view of its towers and front arches.",
+        "route": "Walk down the avenue from Centenario, pause in the square and enter if the church is receiving visitors.",
+        "photoHint": "Photograph from the open center of the square.",
+        "question": "Can I pair it with the waterfront?",
+        "answer": "Continue on the same avenue to the Rotonda monument.",
+        "discovery": "The church marks a point between Centenario and the river. From the square, see how its towers rise above the shopping corridor.",
+        "lastStep": "On returning to the square, rejoin the avenue toward La Rotonda."
+      },
+      "zh": {
+        "intro": "教堂又称天使圣母堂，位于十月九日大道的重要节点。从门前开阔广场可看清塔楼和立面拱形。",
+        "route": "从百年纪念广场沿大道走来，先在广场停留。",
+        "photoHint": "教堂接待游客时可入内，从开阔区拍正面。",
+        "question": "能与滨河长廊连游吗？",
+        "answer": "沿同一条大道继续走就到圆形会晤纪念碑。",
+        "discovery": "教堂是百年纪念广场与江岸之间的地标。从门前广场可看出塔楼怎样高出沿街商业建筑。",
+        "lastStep": "回到教堂前广场后沿大道继续去会晤纪念碑。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Guayaquil_SanFrancisco.JPG",
+      "author": "Hjvannes at Dutch Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Parque Centenario es la referencia de llegada para este tramo de la avenida. Desde la plaza Baquerizo, sigue a pie 9 de Octubre hacia el río.",
+      "en": "Use Parque Centenario as the arrival landmark for this stretch. From Baquerizo Plaza, follow 9 de Octubre Avenue toward the river.",
+      "zh": "这一段可把百年纪念广场作为抵达参照。从巴克里索广场沿十月九日大道朝瓜亚斯河方向步行。"
+    },
+    "related": [
+      "centenario",
+      "la-merced",
+      "aerovia"
+    ],
+    "kind": "church",
+    "duration": "20–35"
+  },
+  {
+    "slug": "la-merced",
+    "names": {
+      "es": "Basílica de Nuestra Señora de la Merced",
+      "en": "La Merced Basilica",
+      "zh": "慈悲圣母圣殿"
+    },
+    "address": "Pedro Carbo y Víctor Manuel Rendón, Guayaquil",
+    "management": {
+      "es": "Consulta el acceso interior y las celebraciones con la comunidad mercedaria del templo.",
+      "en": "Ask the Mercedarian community at the basilica about services and interior access.",
+      "zh": "圣殿由慈悲圣母会团体服务，礼拜及入内安排可向堂方查询。"
+    },
+    "source": "https://guayas.gob.ec/wp-content/uploads/dmdocuments/turismo/GUIA-TURISTICA-GUAYAS-2024-Espanol.pdf",
+    "hours": {
+      "es": "El acceso depende del horario del templo y de las celebraciones.",
+      "en": "Access depends on church hours and services.",
+      "zh": "开放取决于堂区时间及礼拜安排。"
+    },
+    "fare": {
+      "es": "Consulta al templo si hay visitas guiadas o condiciones de entrada.",
+      "en": "Ask the church about guided visits or admission arrangements.",
+      "zh": "导览及入内安排请向堂方查询。"
+    },
+    "tips": {
+      "es": "Mantén el silencio durante el culto y consulta antes de tomar fotos.",
+      "en": "Keep quiet during services and ask before taking photos.",
+      "zh": "礼拜时保持安静，拍照前先询问。"
+    },
+    "content": {
+      "es": {
+        "intro": "El templo mercedario se identifica por el lenguaje neogótico de sus vanos y el remate vertical de la fachada. Dentro, el altar da otro punto de comparación con la catedral.",
+        "route": "Desde San Francisco sigue Pedro Carbo hasta Víctor Manuel Rendón.",
+        "photoHint": "Observa primero los arcos de la fachada y entra en silencio si está abierto.",
+        "question": "¿Desde dónde saco una foto sin bloquear el acceso?",
+        "answer": "Usa la esquina opuesta y deja libre el umbral.",
+        "discovery": "Observa la verticalidad del frente y las formas del acceso desde la acera opuesta. Dentro, limita la visita a las zonas que permita la parroquia.",
+        "lastStep": "Después, sigue por Víctor Manuel Rendón hacia el corredor del río o regresa por Pedro Carbo."
+      },
+      "en": {
+        "intro": "The Mercedarian church is recognizable for its Gothic Revival openings and tall façade. The altar offers a further point of comparison with the cathedral.",
+        "route": "Follow Pedro Carbo from San Francisco to Víctor Manuel Rendón.",
+        "photoHint": "Look at the front arches before entering quietly if open.",
+        "question": "Where can I take a photograph without blocking the entrance?",
+        "answer": "Use the opposite corner and keep the threshold clear.",
+        "discovery": "From across the street, look at the vertical façade and entrance shapes. Inside, stay in the areas the parish makes available.",
+        "lastStep": "Continue along Víctor Manuel Rendón toward the waterfront or return via Pedro Carbo."
+      },
+      "zh": {
+        "intro": "圣殿的窗拱和向上伸展的立面带有新哥特式特征。若可入内，亦可把祭坛与主教座堂作比较。",
+        "route": "从圣弗朗西斯科教堂沿佩德罗·卡尔沃街走到维克托·曼努埃尔·伦东街。",
+        "photoHint": "先看外部拱形，有开放再安静入内。",
+        "question": "哪里拍照不挡门？",
+        "answer": "可站在对面街角，留出门口通道。",
+        "discovery": "从街对面观察高耸的立面和门口形制。入内只走堂方开放的区域。",
+        "lastStep": "之后可沿维克托·曼努埃尔·伦东街走向水岸，或经佩德罗·卡尔沃街折返。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sageo_EG_-_Bas%C3%ADlica_Menor_de_la_Merced_-_Exteriores.jpg",
+      "author": "Sageo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Parque Centenario es la referencia de llegada para este tramo de la avenida. Desde la plaza Baquerizo, sigue a pie 9 de Octubre hacia el río.",
+      "en": "Use Parque Centenario as the arrival landmark for this stretch. From Baquerizo Plaza, follow 9 de Octubre Avenue toward the river.",
+      "zh": "这一段可把百年纪念广场作为抵达参照。从巴克里索广场沿十月九日大道朝瓜亚斯河方向步行。"
+    },
+    "related": [
+      "centenario",
+      "san-francisco",
+      "aerovia"
+    ],
+    "kind": "church",
+    "duration": "15–30"
+  },
+  {
+    "slug": "calle-panama",
+    "names": {
+      "es": "Calle Panamá",
+      "en": "Panamá Street",
+      "zh": "巴拿马历史街"
+    },
+    "address": "Calle Panamá e Imbabura, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil es el referente para el espacio público. Los recintos y comercios del sector gestionan sus propios accesos.",
+      "en": "The Municipality of Guayaquil is the point of contact for public space. Individual venues and businesses set their own access rules.",
+      "zh": "公共空间的服务信息可向瓜亚基尔市政府查询。沿线场馆和商家各自安排开放。"
+    },
+    "source": "https://turismo.guayaquil.gob.ec/es/experiencias/cultura",
+    "hours": {
+      "es": "De día; consulta cierres puntuales.",
+      "en": "Visit during daylight and check for temporary closures.",
+      "zh": "建议白天到访，临时关闭以公告为准。"
+    },
+    "fare": {
+      "es": "Paso exterior de uso público.",
+      "en": "Public outdoor access.",
+      "zh": "公共户外通道。"
+    },
+    "tips": {
+      "es": "Usa los cruces señalizados y deja libres los pasos.",
+      "en": "Use marked crossings and keep paths clear.",
+      "zh": "走标示过街点，保持步道畅通。"
+    },
+    "content": {
+      "es": {
+        "intro": "En esta calle hubo bodegas vinculadas a la exportación de cacao. La transformación del corredor en un paseo cultural y gastronómico preserva huellas de esa historia comercial.",
+        "route": "Empieza en Imbabura, observa la casa del Museo del Cacao y camina hacia Loja.",
+        "photoHint": "Para fotografía urbana busca la continuidad de fachadas desde la acera.",
+        "question": "¿Vale la pena sin entrar al museo?",
+        "answer": "El paseo, la arquitectura y las paradas gastronómicas se pueden visitar independientemente del museo.",
+        "discovery": "Las antiguas actividades del cacao ayudan a leer las fachadas comerciales y el uso actual de la calle como corredor cultural.",
+        "lastStep": "En Loja, enlaza con el mercado artesanal o cruza hacia el acceso norte del malecón."
+      },
+      "en": {
+        "intro": "Cacao warehouses once lined this street. Its reinvention as a cultural and dining corridor retains traces of that trading history.",
+        "route": "Start at Imbabura, examine the Cacao Museum house and walk toward Loja.",
+        "photoHint": "Photograph the run of façades from the sidewalk.",
+        "question": "Is it worth visiting without the museum?",
+        "answer": "The walk, architecture and food stops can be visited independently.",
+        "discovery": "The cacao trade helps explain the shopfronts and the street’s present role as a cultural corridor.",
+        "lastStep": "At Loja, link up with the artisan market or cross toward the north end of the waterfront."
+      },
+      "zh": {
+        "intro": "巴拿马街过去有可可出口仓库，如今转为文化与餐饮街区，沿街仍可追寻这段贸易历史。",
+        "route": "从因巴武拉街起步，先看可可博物馆的老宅，再向洛哈街走。",
+        "photoHint": "从人行道取景，拍连续的沿街立面。",
+        "question": "不进可可博物馆也值得去吗？",
+        "answer": "街道、建筑和餐饮可以单独安排。",
+        "discovery": "旧时可可贸易有助于理解街道的商业立面，以及它后来转型为文化走廊的过程。",
+        "lastStep": "到洛哈街可接着去工艺市场，或过街前往滨河长廊北端。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Calle_Panama_Guayaquil.jpg",
+      "author": "SantosJD",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "mercado-artesanal",
+      "maac",
+      "las-penas",
+      "biblioteca-artes"
+    ],
+    "kind": "street",
+    "duration": "35–60"
+  },
+  {
+    "slug": "mercado-artesanal",
+    "names": {
+      "es": "Mercado Artesanal de Guayaquil",
+      "en": "Guayaquil Artisan Market",
+      "zh": "瓜亚基尔手工艺市场"
+    },
+    "address": "Loja y Juan Montalvo, Guayaquil",
+    "management": {
+      "es": "Los comerciantes organizan la atención de sus puestos y participan en el mantenimiento del mercado.",
+      "en": "Market traders run individual stalls and take part in maintenance of the market.",
+      "zh": "各摊位由商户经营，商户也参与市场维护。"
+    },
+    "source": "https://guayaquil.gob.ec/jornada-de-limpieza-transforma-el-mercado-artesanal-y-mejora-su-atencion-al-publico/",
+    "hours": {
+      "es": "Los horarios pueden variar entre puestos.",
+      "en": "Hours may vary by stall.",
+      "zh": "不同摊位营业时间可能不同。"
+    },
+    "fare": {
+      "es": "Consulta los precios en cada puesto.",
+      "en": "Ask for prices at individual stalls.",
+      "zh": "商品价格可向摊主询问。"
+    },
+    "tips": {
+      "es": "Pregunta si el precio incluye embalaje, especialmente para piezas frágiles.",
+      "en": "Ask whether packing is included, especially for fragile items.",
+      "zh": "购买易碎工艺品前可询问是否包含包装。"
+    },
+    "content": {
+      "es": {
+        "intro": "El mercado agrupa pequeños puestos de artesanías y recuerdos cerca del corredor ribereño. Sus pasillos permiten comparar trabajos textiles, piezas de madera y artículos de tagua.",
+        "route": "Entra por el sector de Loja, recorre un pasillo completo antes de comprar y continúa hacia Las Peñas.",
+        "photoHint": "Pregunta antes de fotografiar un puesto.",
+        "question": "¿Cómo distingo la procedencia de una pieza?",
+        "answer": "Pregunta quién la hizo, en qué localidad y con qué material.",
+        "discovery": "Para comparar piezas similares, pregunta por procedencia y material antes de elegir. Recorre una fila completa para valorar más de un puesto.",
+        "lastStep": "Al terminar, sal por Loja y toma el corredor hacia Las Peñas."
+      },
+      "en": {
+        "intro": "The market brings small craft and souvenir stalls together near the river corridor. Its aisles let you compare textiles, woodwork and tagua items.",
+        "route": "Enter from the Loja side, walk a full aisle before buying and continue toward Las Peñas.",
+        "photoHint": "Ask before photographing stalls.",
+        "question": "How can I tell where a piece comes from?",
+        "answer": "Ask who made it, in which town and from what material.",
+        "discovery": "When comparing similar pieces, ask about origin and material before choosing. Walk a full aisle to see more than one stall.",
+        "lastStep": "When finished, leave via Loja and follow the corridor toward Las Peñas."
+      },
+      "zh": {
+        "intro": "市场汇集了河岸附近的小型工艺品和纪念品摊位，沿通道可比较纺织品、木作和植物象牙制品。",
+        "route": "从洛哈街一侧进入，先逛完一条通道再购买，随后可去拉斯佩尼亚斯。",
+        "photoHint": "拍摄摊位前先询问。",
+        "question": "如何判断产地？",
+        "answer": "可问店主制作人、产地以及所用材料。",
+        "discovery": "比较相似工艺品时，可先问产地和材质。走完一条通道再挑选，有机会多比较几家。",
+        "lastStep": "逛完从洛哈街离开，沿街前往拉斯佩尼亚斯。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mercado_Artesanal_%28Guayaquil%29.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "maac",
+      "las-penas"
+    ],
+    "kind": "market",
+    "duration": "30–60"
+  },
+  {
+    "slug": "museo-bomberos",
+    "names": {
+      "es": "Museo del Bombero Ecuatoriano",
+      "en": "Ecuadorian Firefighters Museum",
+      "zh": "厄瓜多尔消防博物馆"
+    },
+    "address": "Plaza Colón, Rocafuerte y Morán de Buitrón, Guayaquil",
+    "management": {
+      "es": "El Cuerpo de Bomberos de Guayaquil presenta la historia de su institución en este museo.",
+      "en": "The Guayaquil Fire Department presents its institutional history in this museum.",
+      "zh": "瓜亚基尔消防部门在馆内展示本部门的历史。"
+    },
+    "source": "https://www.bomberosguayaquil.gob.ec/",
+    "hours": {
+      "es": "Revisa el horario y las salas habilitadas con la administración.",
+      "en": "Check hours and gallery availability with the venue.",
+      "zh": "出发前向场馆查询开放时间和当天可参观展区。"
+    },
+    "fare": {
+      "es": "Consulta las condiciones de entrada y de las visitas especiales.",
+      "en": "Check admission arrangements and special tours with the venue.",
+      "zh": "入场及特别导览条件以场馆公告为准。"
+    },
+    "tips": {
+      "es": "Comprueba si hay restricciones de fotografía o de equipaje.",
+      "en": "Check for photography or bag restrictions.",
+      "zh": "留意拍照及携带行李的规定。"
+    },
+    "content": {
+      "es": {
+        "intro": "La colección de equipos y vehículos de bomberos documenta la respuesta a incendios en una ciudad que sufrió grandes siniestros. La fachada señala un acceso distinto al del cerro.",
+        "route": "Acércate por la plaza Colón y empieza por los equipos de bombeo. Si la sala está abierta, compara carros de diferentes épocas.",
+        "photoHint": "Fotografía el edificio desde la plaza.",
+        "question": "¿Qué explica este museo sobre Guayaquil?",
+        "answer": "Permite relacionar los incendios históricos con los cambios en la protección urbana.",
+        "discovery": "Compara el tamaño y la movilidad de las bombas de distintas generaciones para ver cómo cambió el trabajo de extinción en la ciudad.",
+        "lastStep": "Vuelve a Plaza Colón y decide si continuar a la escalinata o hacia el malecón."
+      },
+      "en": {
+        "intro": "Engines and equipment document firefighting in a city that suffered major fires. The façade marks a separate entrance from the hill stairs.",
+        "route": "Approach through Plaza Colón and start with the pumping equipment. If the gallery is open, compare engines from different eras.",
+        "photoHint": "Photograph the building from the plaza.",
+        "question": "What does the museum explain about the city?",
+        "answer": "The exhibits connect historic fires with changes in urban fire protection.",
+        "discovery": "Compare the size and mobility of pumps from different generations to see how urban firefighting changed.",
+        "lastStep": "Return to Plaza Colón and choose between the hill stairs and the waterfront."
+      },
+      "zh": {
+        "intro": "消防车辆与设备记录了这座历经多次大火的城市如何应对火灾。博物馆入口与登山阶梯区分开来。",
+        "route": "由哥伦布广场走近，先看抽水设备，展厅开放时再比较不同时代的消防车。",
+        "photoHint": "建筑可从广场拍摄。",
+        "question": "能了解到什么城市历史？",
+        "answer": "展览把历史火灾与城市消防设施的演变联系起来。",
+        "discovery": "比较不同时代消防泵的体积和移动方式，可理解城市灭火工作如何变化。",
+        "lastStep": "回到哥伦布广场，再决定登山或前往水岸。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_de_los_Bomberos_en_Guayaquil.jpg",
+      "author": "Ceibos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el extremo norte del Malecón 2000, sigue hacia la calle Loja o el pie del cerro Santa Ana; toma desde allí el acceso indicado para el lugar.",
+      "en": "From the northern end of Malecón 2000, head toward Loja Street or the foot of Santa Ana Hill, then use the access listed in the address.",
+      "zh": "从马雷孔2000北端朝洛哈街或圣安娜山脚走，再按本页地址选择景点入口。"
+    },
+    "related": [
+      "calle-panama",
+      "mercado-artesanal",
+      "maac"
+    ],
+    "kind": "museum",
+    "duration": "40–65"
+  },
+  {
+    "slug": "cementerio-general",
+    "names": {
+      "es": "Cementerio General de Guayaquil",
+      "en": "Guayaquil General Cemetery",
+      "zh": "瓜亚基尔总公墓"
+    },
+    "address": "Av. Julián Coronel y Pedro Menéndez Gilbert, Guayaquil",
+    "management": {
+      "es": "La Junta de Beneficencia de Guayaquil administra el Cementerio General. Consulta al personal para visitas patrimoniales.",
+      "en": "The Junta de Beneficencia de Guayaquil administers the General Cemetery. Ask staff about heritage visits.",
+      "zh": "总公墓由瓜亚基尔慈善委员会管理，有关遗产参观可向工作人员查询。"
+    },
+    "source": "https://www.juntadebeneficencia.org.ec/",
+    "hours": {
+      "es": "Consulta el horario de la puerta y los recorridos disponibles.",
+      "en": "Check gate hours and available tours.",
+      "zh": "请查询入口开放时间及可参观路线。"
+    },
+    "fare": {
+      "es": "Consulta el costo y la disponibilidad si deseas una visita guiada.",
+      "en": "Check availability and cost for a guided visit.",
+      "zh": "如需导览，可先查询场次与费用。"
+    },
+    "tips": {
+      "es": "Mantén distancia de los servicios funerarios y sigue las indicaciones del personal.",
+      "en": "Give funeral services space and follow staff directions.",
+      "zh": "避开葬礼活动，并遵循工作人员指引。"
+    },
+    "content": {
+      "es": {
+        "intro": "El cementerio patrimonial reúne mausoleos y esculturas funerarias vinculados a la historia de la ciudad. Las avenidas y pórticos ayudan a leer su diseño como recinto monumental.",
+        "route": "Confirma en la entrada el sector habilitado y sigue la señalización patrimonial.",
+        "photoHint": "Para una foto general usa el acceso o una avenida amplia, evitando ceremonias.",
+        "question": "¿Hay que pedir permiso para fotografiar?",
+        "answer": "Consulta las reglas de la administración y respeta la privacidad de las familias.",
+        "discovery": "Los mausoleos y esculturas se aprecian desde las avenidas habilitadas; observa estilos y detalles sin entrar en recintos funerarios.",
+        "lastStep": "Regresa por la avenida principal a la misma puerta para no depender de una salida secundaria."
+      },
+      "en": {
+        "intro": "The heritage cemetery brings together mausoleums and funerary sculpture tied to city history. Its avenues and porticos reveal the plan of a monumental enclosure.",
+        "route": "Confirm which section is open at the entrance and follow the heritage signs.",
+        "photoHint": "Use the entrance or a wide avenue for general photographs, away from ceremonies.",
+        "question": "Should I ask about photography?",
+        "answer": "Check the administrator's rules and respect families' privacy.",
+        "discovery": "View mausoleums and sculpture from open avenues. Observe the designs without entering burial enclosures.",
+        "lastStep": "Return via the main avenue to the same gate so you do not rely on a secondary exit."
+      },
+      "zh": {
+        "intro": "公墓保留多座与城市历史有关的陵墓及纪念雕塑，从主道和门廊可看出整体布局。",
+        "route": "进门先确认开放区域，沿遗产导览指示走。",
+        "photoHint": "可在入口或宽阔主道拍全景，避开葬礼。",
+        "question": "拍摄需要询问吗？",
+        "answer": "先查管理方规定并尊重家属隐私。",
+        "discovery": "沿开放主道看陵墓与雕塑，在外部观察建筑风格和细节，勿进入墓室。",
+        "lastStep": "从主道返回同一入口，避免依赖可能关闭的侧门。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Entrada_Cementerio_General_de_Guayaquil.jpg",
+      "author": "Natalia Cartolini",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo considera un traslado en taxi hacia el Cerro del Carmen. Da el nombre del destino completo: el mirador y las puertas del cementerio tienen accesos distintos.",
+      "en": "From Baquerizo Plaza, consider a taxi toward Cerro del Carmen. Give the complete destination name, as the lookout and cemetery gates have separate approaches.",
+      "zh": "从巴克里索广场可打车前往卡门山一带。请报完整景点名，观景台与公墓大门有不同的抵达路线。"
+    },
+    "related": [
+      "sagrado-corazon"
+    ],
+    "kind": "cemetery",
+    "duration": "40–70"
+  },
+  {
+    "slug": "sagrado-corazon",
+    "names": {
+      "es": "Monumento al Sagrado Corazón de Jesús",
+      "en": "Sacred Heart Monument",
+      "zh": "耶稣圣心纪念像"
+    },
+    "address": "Mirador del Cerro del Carmen, Guayaquil",
+    "management": {
+      "es": "El Municipio de Guayaquil presta servicios de vigilancia en el mirador del Cerro del Carmen. Consulta sus avisos para el acceso.",
+      "en": "The Municipality of Guayaquil provides security services at the Cerro del Carmen lookout. Check the city’s notices for access.",
+      "zh": "瓜亚基尔市政府在卡门山观景台提供巡查服务，前往前可查询市政府通告。"
+    },
+    "source": "https://guayaquil.gob.ec/municipio-refuerza-prevencion-nueva-eas-cerro-carmen/",
+    "hours": {
+      "es": "Verifica la apertura del acceso al mirador antes de subir.",
+      "en": "Check the lookout access before going uphill.",
+      "zh": "上山前先确认观景台入口开放。"
+    },
+    "fare": {
+      "es": "Verifica el acceso a las instalaciones de la cima.",
+      "en": "Check whether any summit facilities have separate admission.",
+      "zh": "山顶设施是否另收费以现场规定为准。"
+    },
+    "tips": {
+      "es": "Sube con luz de día y reserva tiempo para el regreso.",
+      "en": "Climb in daylight and allow time for the descent.",
+      "zh": "建议在白天登山，给下山留够时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El monumento religioso del Cerro del Carmen se reconoce en la silueta del centro. En la cima, el pedestal y la vista permiten relacionar las laderas con la trama urbana.",
+        "route": "Usa la conexión vial señalizada al mirador y confirma el acceso antes de salir.",
+        "photoHint": "Una toma desde la base del pedestal muestra el volumen sin asomarse al borde.",
+        "question": "¿Está en el Cerro Santa Ana?",
+        "answer": "El monumento se encuentra en el Cerro del Carmen, con otro acceso.",
+        "discovery": "En el Cerro del Carmen, la figura del monumento sirve de referencia para reconocer la cresta y el tejido urbano de sus laderas.",
+        "lastStep": "Desde el área habilitada, mira hacia el centro y vuelve al punto de recogida por el mismo acceso."
+      },
+      "en": {
+        "intro": "The religious monument on Cerro del Carmen is recognizable on the downtown skyline. The pedestal and views connect the hillsides to the street grid below.",
+        "route": "Use the signed road approach and confirm access before leaving.",
+        "photoHint": "Photograph the statue from the base of the pedestal without leaning over an edge.",
+        "question": "Is it on Santa Ana Hill?",
+        "answer": "It is on Cerro del Carmen, with a separate approach.",
+        "discovery": "On Cerro del Carmen, the monument provides a reference point for reading the ridge and the urban fabric on its slopes.",
+        "lastStep": "From the open visitor area, look toward downtown and retrace your route to the pickup point."
+      },
+      "zh": {
+        "intro": "圣心纪念像立在卡门山上，是市中心天际线上的地标。从山顶可一并观察基座、山坡及下方街道网。",
+        "route": "沿通往观景台的标示道路抵达，出发前确认通行情况。",
+        "photoHint": "从基座旁仰拍，不用靠近边缘。",
+        "question": "这里是圣安娜山吗？",
+        "answer": "纪念像在卡门山，有独立的上山入口。",
+        "discovery": "在卡门山，纪念像是辨认山脊与坡地城市肌理的参照。",
+        "lastStep": "在开放区域朝市中心观景，再沿原路回上车点。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Monumento_al_Sagrado_Coraz%C3%B3n_de_Jes%C3%BAs_de_Guayaquil.JPG",
+      "author": "Fernando Mancero Coloma",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza Baquerizo considera un traslado en taxi hacia el Cerro del Carmen. Da el nombre del destino completo: el mirador y las puertas del cementerio tienen accesos distintos.",
+      "en": "From Baquerizo Plaza, consider a taxi toward Cerro del Carmen. Give the complete destination name, as the lookout and cemetery gates have separate approaches.",
+      "zh": "从巴克里索广场可打车前往卡门山一带。请报完整景点名，观景台与公墓大门有不同的抵达路线。"
+    },
+    "related": [
+      "cementerio-general"
+    ],
+    "kind": "view",
+    "duration": "20–35"
+  },
+  {
+    "slug": "parque-forestal",
+    "names": {
+      "es": "Parque Forestal de Guayaquil",
+      "en": "Guayaquil Forest Park",
+      "zh": "瓜亚基尔森林公园"
+    },
+    "address": "Av. Quito y El Oro, Guayaquil",
+    "management": {
+      "es": "Parques EP, la empresa pública municipal de parques, incluye el Parque Forestal en su catálogo de espacios públicos.",
+      "en": "Parques EP, the municipal parks company, lists Forest Park among its public spaces.",
+      "zh": "市立公园企业 Parques EP 将森林公园列入其公共空间名录。"
+    },
+    "source": "https://parquesep.gob.ec/parque-forestal-de-guayaquil/",
+    "hours": {
+      "es": "Consulta el horario de los accesos del paseo.",
+      "en": "Check opening arrangements for waterfront entrances.",
+      "zh": "出发前查询滨水区各入口开放安排。"
+    },
+    "fare": {
+      "es": "Consulta por separado las actividades o servicios de pago.",
+      "en": "Check fees for activities or additional services separately.",
+      "zh": "收费活动或附加服务需另查。"
+    },
+    "tips": {
+      "es": "Tras la lluvia, presta atención a los peldaños y al pavimento junto al agua.",
+      "en": "After rain, watch for slippery steps and paving by the water.",
+      "zh": "雨后留意河边台阶和铺装路面。"
+    },
+    "content": {
+      "es": {
+        "intro": "Entre senderos arbolados y agua aparecen bustos y monumentos que la ciudad utiliza para recordar figuras locales. El conjunto se puede visitar como un jardín de esculturas al aire libre.",
+        "route": "Entra por el sector de El Oro, sigue el borde de la laguna y vuelve por el conjunto de esculturas.",
+        "photoHint": "Prueba encuadrarlas bajo las copas de los árboles.",
+        "question": "¿La visita depende de un espectáculo?",
+        "answer": "Los senderos del parque y la programación del teatro son visitas distintas.",
+        "discovery": "La laguna y los paseos escultóricos ofrecen dos maneras de recorrer el parque. La cubierta del Centro Cívico ayuda a orientarse.",
+        "lastStep": "Al llegar al teatro, regresa hacia El Oro si tu visita se limita al parque."
+      },
+      "en": {
+        "intro": "Paths, trees and water surround busts and monuments that commemorate figures from local history. The grounds can be read as an open-air sculpture garden.",
+        "route": "Enter near El Oro, follow the lagoon edge and return through the sculptures.",
+        "photoHint": "Try framing the stonework beneath the tree canopy.",
+        "question": "Do I need to attend a show?",
+        "answer": "The walking paths and the theatre programme are separate visits.",
+        "discovery": "The lagoon and sculpture paths offer two different ways through the park. The civic theatre roof is an orientation point.",
+        "lastStep": "At the theatre, turn back toward El Oro if you are visiting just the park."
+      },
+      "zh": {
+        "intro": "林荫道和水面旁设有本地历史人物的胸像及纪念物，园区可以当作一座露天雕塑园游览。",
+        "route": "经埃尔奥罗街一侧进入，沿湖走，再经雕塑区返回。",
+        "photoHint": "可利用树冠为雕塑取景。",
+        "question": "要买演出票才能逛吗？",
+        "answer": "公园步道与剧场演出是两种独立游览安排。",
+        "discovery": "湖边路径与雕塑步道提供两种逛法，市民剧场的屋顶可作为辨认方向的地标。",
+        "lastStep": "到剧场旁后，如只游公园，可向埃尔奥罗街返回。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:SageoEG_-_Parque_Forestal_Columna_02.jpg",
+      "author": "Sageo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el centro, dirígete al sur por el corredor de la Av. Quito. Deja margen para llegar al acceso concreto, especialmente los días de partido o función.",
+      "en": "Head south from downtown via the Quito Avenue corridor. Allow time to reach the specific entrance, especially on match or performance days.",
+      "zh": "从市中心沿基多大道一线南行。比赛或演出当天应额外预留找入口的时间。"
+    },
+    "related": [
+      "centro-civico",
+      "estadio-capwell"
+    ],
+    "kind": "park",
+    "duration": "35–60"
+  },
+  {
+    "slug": "centro-civico",
+    "names": {
+      "es": "Teatro Centro Cívico Eloy Alfaro",
+      "en": "Eloy Alfaro Civic Theatre",
+      "zh": "埃洛伊·阿尔法罗市民剧场"
+    },
+    "address": "Parque Forestal, Av. Quito y El Oro, Guayaquil",
+    "management": {
+      "es": "El teatro es sede de la Orquesta Sinfónica de Guayaquil. Las condiciones de entrada dependen de cada producción.",
+      "en": "The theatre houses the Guayaquil Symphony Orchestra. Admission arrangements depend on the individual production.",
+      "zh": "这里是瓜亚基尔交响乐团的驻地，具体入场安排由各场演出主办方公布。"
+    },
+    "source": "https://osg.gob.ec/nosotros/",
+    "hours": {
+      "es": "Consulta la programación y la hora de apertura de puertas.",
+      "en": "Check the programme and gate opening time.",
+      "zh": "查询运行或演出、比赛的安排及开门时间。"
+    },
+    "fare": {
+      "es": "Consulta la tarifa vigente del operador o del evento.",
+      "en": "Check the current operator fare or event price.",
+      "zh": "票价以运营方或活动公告为准。"
+    },
+    "tips": {
+      "es": "Confirma la entrada indicada y el tiempo de espera antes de salir.",
+      "en": "Confirm the correct entrance and allow for queues.",
+      "zh": "出发前确认入口，并为排队留出时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El conjunto escénico forma parte del entorno cultural del Parque Forestal. La concha acústica y los espacios de público revelan la relación entre el parque y la programación musical.",
+        "route": "Desde El Oro localiza el acceso al teatro; consulta la entrada exacta en tu boleto y llega antes de la función.",
+        "photoHint": "Desde la explanada puedes encuadrar el acceso al teatro y los árboles del parque en la misma toma.",
+        "question": "¿Puedo entrar sin evento?",
+        "answer": "Confirma las condiciones con la producción o administración del recinto.",
+        "discovery": "El volumen curvo del teatro destaca entre los senderos del Parque Forestal. El recinto es sede de la Orquesta Sinfónica de Guayaquil.",
+        "lastStep": "Antes de entrar, identifica el camino de regreso hacia El Oro para la salida de la función."
+      },
+      "en": {
+        "intro": "The performance complex is part of Forest Park’s cultural setting. The bandshell and audience spaces show how the park and music programme relate.",
+        "route": "From El Oro, find the theatre approach, check your ticket for the correct door and allow time before the show.",
+        "photoHint": "From the forecourt, frame the entrance and park trees in the same shot.",
+        "question": "Can I go inside between events?",
+        "answer": "Confirm the access rules with the event producer or venue.",
+        "discovery": "The theatre’s curved mass stands out among Forest Park’s paths. It is home to the Guayaquil Symphony Orchestra.",
+        "lastStep": "Before entering, identify the return route toward El Oro for after the performance."
+      },
+      "zh": {
+        "intro": "剧场建筑群是森林公园的文化设施之一。露天音乐台和观众区反映了园区与音乐演出的关系。",
+        "route": "从埃尔奥罗街找剧场入口，根据票面确认进门位置并提前抵达。",
+        "photoHint": "可从剧场前空地把入口与公园树木拍入同一画面。",
+        "question": "没有演出能进去吗？",
+        "answer": "向活动主办方或场馆管理方查询。",
+        "discovery": "剧场弧形体量在森林公园步道间十分醒目。这里是瓜亚基尔交响乐团的驻地。",
+        "lastStep": "入场前先辨认回埃尔奥罗街的路线，方便散场离开。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:SageoEG_-_Parque_Forestal_Centro_C%C3%ADvico_01.jpg",
+      "author": "Sageo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el centro, dirígete al sur por el corredor de la Av. Quito. Deja margen para llegar al acceso concreto, especialmente los días de partido o función.",
+      "en": "Head south from downtown via the Quito Avenue corridor. Allow time to reach the specific entrance, especially on match or performance days.",
+      "zh": "从市中心沿基多大道一线南行。比赛或演出当天应额外预留找入口的时间。"
+    },
+    "related": [
+      "parque-forestal",
+      "estadio-capwell"
+    ],
+    "kind": "theatre",
+    "duration": "25–40"
+  },
+  {
+    "slug": "estadio-capwell",
+    "names": {
+      "es": "Estadio George Capwell",
+      "en": "George Capwell Stadium",
+      "zh": "乔治·卡普韦尔球场"
+    },
+    "address": "Av. Quito y General Gómez, Guayaquil",
+    "management": {
+      "es": "El recinto es la sede del Club Sport Emelec. Consulta al club para los partidos, las entradas y las puertas habilitadas.",
+      "en": "The venue is home to Club Sport Emelec. Check with the club for matches, tickets and open gates.",
+      "zh": "球场是埃梅莱克体育俱乐部的主场，赛程、买票及开放入口以俱乐部公告为准。"
+    },
+    "source": "https://emelec.com.ec/",
+    "hours": {
+      "es": "Consulta la programación y la hora de apertura de puertas.",
+      "en": "Check the programme and gate opening time.",
+      "zh": "查询运行或演出、比赛的安排及开门时间。"
+    },
+    "fare": {
+      "es": "Consulta la tarifa vigente del operador o del evento.",
+      "en": "Check the current operator fare or event price.",
+      "zh": "票价以运营方或活动公告为准。"
+    },
+    "tips": {
+      "es": "Confirma la entrada indicada y el tiempo de espera antes de salir.",
+      "en": "Confirm the correct entrance and allow for queues.",
+      "zh": "出发前确认入口，并为排队留出时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El estadio es la sede de Emelec y una referencia en el sur del centro. Al caminar el perímetro se entiende cómo se insertan graderíos y accesos en una manzana urbana.",
+        "route": "En día de partido localiza primero la puerta indicada en la entrada.",
+        "photoHint": "Para ver la fachada sin partido, acércate por la acera de Quito y continúa solo por pasos señalizados.",
+        "question": "¿El acceso a las gradas es libre?",
+        "answer": "La entrada a partidos y otros eventos sigue las condiciones del organizador.",
+        "discovery": "En el perímetro se aprecia cómo el estadio de Emelec encaja en una manzana urbana. En partido, la entrada depende de la puerta asignada.",
+        "lastStep": "Ubica una esquina de recogida fuera de la fila antes de entrar."
+      },
+      "en": {
+        "intro": "The stadium is home to Emelec and a landmark south of downtown. Walking the perimeter shows how grandstands and gates fit into a city block.",
+        "route": "On match day find the gate shown on your ticket first.",
+        "photoHint": "For the exterior on a quiet day, approach from the Quito Avenue sidewalk and use marked crossings.",
+        "question": "Can I enter the stands freely?",
+        "answer": "Access to matches and other events follows the organizer’s admission rules.",
+        "discovery": "From the perimeter, see how Emelec’s stadium fits within a city block. On match day, use your assigned gate.",
+        "lastStep": "Before entering, pick a pickup corner away from the queue."
+      },
+      "zh": {
+        "intro": "球场是埃梅莱克俱乐部的主场，也是市中心南侧地标。绕外围步行，可以观察看台与检票口如何嵌入旧城区街区。",
+        "route": "比赛日先找票面指定的门。",
+        "photoHint": "平日看外观可走基多大道一侧的人行道，使用标示过街点。",
+        "question": "可以自由进入看台吗？",
+        "answer": "比赛和其他活动均须遵循主办方的入场安排。",
+        "discovery": "从外围可看出埃梅莱克球场如何嵌入一块城区街坊。比赛日按票面指定入口入场。",
+        "lastStep": "进场前先选定远离排队区的街角作为散场上车点。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:ESTADIO_CAPWELL_1.jpg",
+      "author": "Agencia de Noticias ANDES",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "transport": {
+      "es": "Desde el centro, dirígete al sur por el corredor de la Av. Quito. Deja margen para llegar al acceso concreto, especialmente los días de partido o función.",
+      "en": "Head south from downtown via the Quito Avenue corridor. Allow time to reach the specific entrance, especially on match or performance days.",
+      "zh": "从市中心沿基多大道一线南行。比赛或演出当天应额外预留找入口的时间。"
+    },
+    "related": [
+      "parque-forestal",
+      "centro-civico"
+    ],
+    "kind": "stadium",
+    "duration": "25–40"
+  },
+  {
+    "slug": "estadio-modelo",
+    "names": {
+      "es": "Estadio Modelo Alberto Spencer Herrera",
+      "en": "Alberto Spencer Stadium",
+      "zh": "阿尔韦托·斯潘塞体育场"
+    },
+    "address": "Av. de las Américas, sector de la Federación Deportiva del Guayas, Guayaquil",
+    "management": {
+      "es": "La Federación Deportiva del Guayas es el referente del complejo deportivo. Consulta al organizador por el acceso a cada evento.",
+      "en": "The Guayas Sports Federation is the point of contact for this sports complex. Ask the event organiser about admission.",
+      "zh": "体育设施可向瓜亚斯体育联合会查询，具体活动的入场安排由主办方公布。"
+    },
+    "source": "https://www.fedeguayas.com.ec/",
+    "hours": {
+      "es": "Consulta la programación y la hora de apertura de puertas.",
+      "en": "Check the programme and gate opening time.",
+      "zh": "查询运行或演出、比赛的安排及开门时间。"
+    },
+    "fare": {
+      "es": "Consulta la tarifa vigente del operador o del evento.",
+      "en": "Check the current operator fare or event price.",
+      "zh": "票价以运营方或活动公告为准。"
+    },
+    "tips": {
+      "es": "Confirma la entrada indicada y el tiempo de espera antes de salir.",
+      "en": "Confirm the correct entrance and allow for queues.",
+      "zh": "出发前确认入口，并为排队留出时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El estadio lleva el nombre del futbolista Alberto Spencer y forma parte del complejo deportivo provincial. El óvalo y la escala de los graderíos se distinguen desde el acceso exterior.",
+        "route": "Desde la avenida identifica el acceso anunciado para tu evento.",
+        "photoHint": "Para una foto de contexto, usa la explanada exterior y deja libres las filas.",
+        "question": "¿Es el estadio de Emelec?",
+        "answer": "El George Capwell está en otra zona y tiene sus propios accesos.",
+        "discovery": "El recinto lleva el nombre del futbolista Alberto Spencer. Su huella abierta y sus accesos se leen desde el borde de la avenida.",
+        "lastStep": "En un evento, confirma por dónde saldrás antes de separarte de tu grupo."
+      },
+      "en": {
+        "intro": "Named for footballer Alberto Spencer, the stadium forms part of the provincial sports complex. Its oval and the scale of its stands stand out from the outer approach.",
+        "route": "From the avenue, find the entrance announced for your event.",
+        "photoHint": "For a context photo, use the outside forecourt and keep queues clear.",
+        "question": "Is this Emelec’s stadium?",
+        "answer": "George Capwell Stadium is in another area, with separate access.",
+        "discovery": "The stadium is named for footballer Alberto Spencer. Its open footprint and approaches can be read from the avenue edge.",
+        "lastStep": "At an event, check your exit before separating from your group."
+      },
+      "zh": {
+        "intro": "体育场以厄瓜多尔球员阿尔韦托·斯潘塞命名，是省级体育设施的一部分。外侧入口可看出椭圆形轮廓与观众看台的尺度。",
+        "route": "从大道找活动公告指定的入口。",
+        "photoHint": "想拍环境照可在馆外空地取景，给排队人群留空间。",
+        "question": "这里是埃梅莱克队主场吗？",
+        "answer": "卡普韦尔主场在另一街区，入口各自独立。",
+        "discovery": "体育场以球员阿尔韦托·斯潘塞命名。从大道边可观察开放式场地轮廓和进出动线。",
+        "lastStep": "参加活动时，和同行者分开前先约好散场所走出口。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_modelo_ecuador.jpg",
+      "author": "Chancho Panza from Münster, Germany (de:Benutzer:Chigliak on Wikipedia)",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "transport": {
+      "es": "El estadio está en la Av. de las Américas. Pide como destino el Estadio Modelo Alberto Spencer y revisa si el evento indica un acceso por otra calle del complejo.",
+      "en": "The stadium is on Avenida de las Américas. Give the full stadium name and check whether your event uses a gate on another street.",
+      "zh": "体育场在美洲大道。导航时使用体育场全名，并核对活动是否从场区另一条街入场。"
+    },
+    "related": [
+      "estadio-capwell",
+      "parque-forestal"
+    ],
+    "kind": "stadium",
+    "duration": "25–40"
+  },
+  {
+    "slug": "parque-historico",
+    "names": {
+      "es": "Parque Histórico de Guayaquil",
+      "en": "Guayaquil Historical Park",
+      "zh": "瓜亚基尔历史公园"
+    },
+    "address": "Av. Río Esmeraldas, La Puntilla, Samborondón",
+    "management": {
+      "es": "La Empresa Pública Municipal de Parques de Samborondón administra el parque desde julio de 2022.",
+      "en": "Samborondón’s Municipal Parks Company has administered the park since July 2022.",
+      "zh": "桑博龙东市立公园企业自2022年7月起管理历史公园。"
+    },
+    "source": "https://epmpsamborondon.gob.ec/",
+    "hours": {
+      "es": "Revisa el horario y las salas habilitadas con la administración.",
+      "en": "Check hours and gallery availability with the venue.",
+      "zh": "出发前向场馆查询开放时间和当天可参观展区。"
+    },
+    "fare": {
+      "es": "Consulta las condiciones de entrada y de las visitas especiales.",
+      "en": "Check admission arrangements and special tours with the venue.",
+      "zh": "入场及特别导览条件以场馆公告为准。"
+    },
+    "tips": {
+      "es": "Comprueba si hay restricciones de fotografía o de equipaje.",
+      "en": "Check for photography or bag restrictions.",
+      "zh": "留意拍照及携带行李的规定。"
+    },
+    "content": {
+      "es": {
+        "intro": "En La Puntilla se reúnen casas patrimoniales trasladadas, espacios de interpretación de tradiciones y un entorno de ribera. Observa cómo galerías y balcones resuelven sombra y ventilación.",
+        "route": "Desde la entrada sigue primero la zona urbano-arquitectónica, luego decide si continúas a las demás áreas.",
+        "photoHint": "Encuadra los balcones desde el espacio abierto entre edificios.",
+        "question": "¿Está en el centro de Guayaquil?",
+        "answer": "El parque se encuentra al otro lado del río, en Samborondón.",
+        "discovery": "Las fachadas de madera y los porches del sector histórico permiten comparar la arquitectura tradicional con el entorno ribereño.",
+        "lastStep": "Consulta el mapa en el cruce de senderos y elige una sola zona extra si tienes poco tiempo."
+      },
+      "en": {
+        "intro": "La Puntilla brings together relocated heritage houses, interpretation of local traditions and a riverbank setting. Look at how galleries and balconies provide shade and ventilation.",
+        "route": "From the entrance, visit the historic buildings first and decide whether to add the other areas.",
+        "photoHint": "Frame the balconies from the open space between the buildings.",
+        "question": "Is it in downtown Guayaquil?",
+        "answer": "The park is across the river in Samborondón.",
+        "discovery": "Wooden façades and porches in the historic area let you compare traditional architecture with its riverside setting.",
+        "lastStep": "Check the map at the path junction and choose just one additional zone if time is short."
+      },
+      "zh": {
+        "intro": "公园位于蓬蒂亚，集中展示从别处迁来的历史房屋、本地生活传统和河岸景观。走廊和阳台可用来观察旧建筑如何遮阳通风。",
+        "route": "入园先逛历史建筑区，再决定是否走其他园区。",
+        "photoHint": "建筑间的空地可拍到阳台细节。",
+        "question": "公园在瓜亚基尔市中心吗？",
+        "answer": "它在河对岸的桑博龙东，需安排车程。",
+        "discovery": "历史区的木立面与外廊适合观察传统建筑，并将它们放回滨水环境中理解。",
+        "lastStep": "到步道分岔口先看导览图；时间不多时，只加选一个园区。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Parque_Hist%C3%B3rico_Guayaquil_-_Edificios_%282%29.JPG",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "transport": {
+      "es": "Desde la plaza, planifica un traslado por carretera hasta La Puntilla, Samborondón. Para el regreso, acuerda un punto de recogida en la entrada del parque.",
+      "en": "From the plaza, plan a road transfer to La Puntilla, Samborondón. Arrange a return pickup at the park entrance.",
+      "zh": "从广场出发需安排车程去桑博龙东蓬蒂亚。返回时可把公园入口设为上车点。"
+    },
+    "related": [
+      "malecon-2000",
+      "puerto-santa-ana"
+    ],
+    "kind": "park",
+    "duration": "90–150"
+  },
+  {
+    "slug": "aerovia",
+    "names": {
+      "es": "Aerovía de Guayaquil",
+      "en": "Guayaquil Cable Car",
+      "zh": "瓜亚基尔跨河缆车"
+    },
+    "address": "Estación Parque Centenario, Av. 9 de Octubre, Guayaquil",
+    "management": {
+      "es": "El operador de Aerovía publica el servicio de estaciones y las condiciones de pago del teleférico entre Guayaquil y Durán.",
+      "en": "The Aerovía operator publishes station service and fare rules for the cable car between Guayaquil and Durán.",
+      "zh": "Aerovía 运营方公布瓜亚基尔至杜兰的缆车车站服务和付费规则。"
+    },
+    "source": "https://beta.aeroviagye.com/tarjetas/",
+    "hours": {
+      "es": "Consulta la programación y la hora de apertura de puertas.",
+      "en": "Check the programme and gate opening time.",
+      "zh": "查询运行或演出、比赛的安排及开门时间。"
+    },
+    "fare": {
+      "es": "Consulta la tarifa vigente del operador o del evento.",
+      "en": "Check the current operator fare or event price.",
+      "zh": "票价以运营方或活动公告为准。"
+    },
+    "tips": {
+      "es": "Confirma la entrada indicada y el tiempo de espera antes de salir.",
+      "en": "Confirm the correct entrance and allow for queues.",
+      "zh": "出发前确认入口，并为排队留出时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "El teleférico urbano enlaza Guayaquil y Durán. Las cabinas y torres muestran cómo el transporte salva el río, con vistas sucesivas al centro y al paisaje fluvial.",
+        "route": "Embarca en Parque Centenario, confirma el sentido Durán y decide si bajas antes de regresar.",
+        "photoHint": "Desde el Malecón 2000 se pueden fotografiar las cabinas desde tierra.",
+        "question": "¿La ida y la vuelta usan el mismo boleto?",
+        "answer": "Consulta las reglas de pago y reingreso del operador antes de embarcar.",
+        "discovery": "El cruce aéreo permite comparar la trama de Guayaquil con la amplitud del río y la llegada urbana a Durán.",
+        "lastStep": "Antes de salir de la estación de Durán, confirma las condiciones del retorno y la última salida."
+      },
+      "en": {
+        "intro": "The urban cable car links Guayaquil and Durán. Cabins and towers show how transit spans the river, with views of downtown and the river landscape along the way.",
+        "route": "Board at Parque Centenario, confirm the Durán direction and decide whether to get out before returning.",
+        "photoHint": "To photograph the cabins from land, use Malecón 2000.",
+        "question": "Does a ticket cover the return trip?",
+        "answer": "Check the operator’s payment and re-entry rules before boarding.",
+        "discovery": "The aerial crossing sets Guayaquil’s street grid against the breadth of the river and the urban approach to Durán.",
+        "lastStep": "Before leaving the Durán station, confirm return arrangements and the last departure."
+      },
+      "zh": {
+        "intro": "城市缆车连接瓜亚基尔与杜兰。车舱和支撑塔展示公交如何跨越河面，沿途视线会从市中心转向河流。",
+        "route": "从百年纪念广场站上车，确认杜兰方向，再决定是否出站后返回。",
+        "photoHint": "想从地面拍车舱，可去马雷孔2000步道。",
+        "question": "一张票含往返吗？",
+        "answer": "上车前查运营方的付费与重新进站规则。",
+        "discovery": "空中越江可对照瓜亚基尔的街网、宽阔河面与抵达杜兰时的城市场景。",
+        "lastStep": "离开杜兰站之前，先确认返回安排和末班时间。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Aerov%C3%ADa_desde_el_Malec%C3%B3n_2000.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Parque Centenario es la referencia de llegada para este tramo de la avenida. Desde la plaza Baquerizo, sigue a pie 9 de Octubre hacia el río.",
+      "en": "Use Parque Centenario as the arrival landmark for this stretch. From Baquerizo Plaza, follow 9 de Octubre Avenue toward the river.",
+      "zh": "这一段可把百年纪念广场作为抵达参照。从巴克里索广场沿十月九日大道朝瓜亚斯河方向步行。"
+    },
+    "related": [
+      "centenario",
+      "malecon-2000",
+      "rotonda"
+    ],
+    "kind": "ride",
+    "duration": "40–75"
+  },
+  {
+    "slug": "plaza-administracion",
+    "names": {
+      "es": "Plaza de la Administración",
+      "en": "Administration Square",
+      "zh": "行政广场"
+    },
+    "address": "Clemente Ballén y Pichincha, Guayaquil",
+    "management": {
+      "es": "Parques EP incluye la plaza en el programa municipal de limpieza y mantenimiento del centro.",
+      "en": "Parques EP includes the square in the municipality’s downtown cleaning and maintenance programme.",
+      "zh": "市属公园公司 Parques EP 将广场纳入市中心清洁与维护计划。"
+    },
+    "source": "https://guayaquil.gob.ec/mantenimiento-parques-plazas-centro-guayaquil/",
+    "hours": {
+      "es": "Paso exterior; verifica cierres puntuales por obras o eventos.",
+      "en": "Outdoor passage. Check for temporary closures during works or events.",
+      "zh": "户外通行，施工及活动期间以临时通告为准。"
+    },
+    "fare": {
+      "es": "Espacio público al aire libre; el acceso a los edificios vecinos se rige por separado.",
+      "en": "Public outdoor space. Neighbouring buildings set their own entry rules.",
+      "zh": "户外公共空间，周边各栋建筑的入内安排独立。"
+    },
+    "tips": {
+      "es": "Recorre la plaza antes de entrar en una institución vecina para distinguir sus accesos.",
+      "en": "Walk the square before entering a neighbouring institution so you can identify its separate entrance.",
+      "zh": "可先绕广场一圈，辨认各栋建筑入口，再前往计划参观的机构。"
+    },
+    "content": {
+      "es": {
+        "intro": "Entre el Palacio Municipal y la antigua Gobernación, esta plaza permite leer a pie el centro cívico de la ciudad. El tramo de Clemente Ballén se abre hacia el frente fluvial.",
+        "route": "Desde Pichincha, recorre el tramo peatonal y compara las fachadas a ambos lados.",
+        "photoHint": "Busca una toma longitudinal hacia el río desde Clemente Ballén.",
+        "question": "¿Se visitan los edificios con la plaza?",
+        "answer": "Cada edificio tiene su propio acceso; planifica la plaza como visita exterior.",
+        "discovery": "El espacio entre los edificios crea un eje transversal al malecón. Al caminarlo, compara la escala más recogida de la plaza con la amplitud de la ribera.",
+        "lastStep": "Termina en el malecón y mira hacia atrás para ver la plaza en relación con la torre del reloj."
+      },
+      "en": {
+        "intro": "Between City Hall and the former provincial government building, this square offers a walk through the city’s civic centre. The Clemente Ballén segment opens toward the riverfront.",
+        "route": "From Pichincha, follow the pedestrian section and compare the façades on either side.",
+        "photoHint": "Try a view down Clemente Ballén toward the river.",
+        "question": "Does the square visit include the buildings?",
+        "answer": "Each building has its own entrance. Plan the square as an outdoor stop.",
+        "discovery": "The space between the buildings forms an axis across the waterfront. Compare the square’s enclosed scale with the openness of the riverbank.",
+        "lastStep": "Finish on the waterfront and look back to see the square in relation to the clock tower."
+      },
+      "zh": {
+        "intro": "广场位于市政厅与旧省政府大楼之间，可步行认识瓜亚基尔的市政中心。克莱门特·巴连街这一段朝江边敞开。",
+        "route": "从皮钦查街穿过步行段，对照两侧建筑立面。",
+        "photoHint": "站在克莱门特·巴连街一侧，朝瓜亚斯河方向拍纵深。",
+        "question": "逛广场能一起参观两边的大楼吗？",
+        "answer": "两栋建筑各有入口和开放安排，广场本身适合户外步行。",
+        "discovery": "大楼之间的空间与滨河步道形成一条横向轴线。走过时可比较较为围合的广场与开阔江岸的尺度差异。",
+        "lastStep": "到滨河步道后回看广场与摩尔钟楼的位置关系。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Administraci%C3%B3n%2C_Guayaquil.jpg",
+      "author": "Etinar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Llega por Pichincha y Clemente Ballén, o entra desde el malecón por un cruce señalizado.",
+      "en": "Approach via Pichincha and Clemente Ballén, or use a marked crossing from the waterfront.",
+      "zh": "可走皮钦查街与克莱门特·巴连街交口，也可从滨河步道沿标示过街点进入。"
+    },
+    "related": [
+      "palacio-municipal",
+      "universidad-artes",
+      "biblioteca-artes"
+    ],
+    "kind": "square",
+    "duration": "20–30"
+  },
+  {
+    "slug": "universidad-artes",
+    "names": {
+      "es": "Edificio de la Gobernación, Universidad de las Artes",
+      "en": "Former Governor’s Building, University of the Arts",
+      "zh": "艺术大学旧省政府大楼"
+    },
+    "address": "Malecón Simón Bolívar y Francisco Aguirre, Guayaquil",
+    "management": {
+      "es": "La Universidad de las Artes usa el edificio como sede académica y administrativa.",
+      "en": "The University of the Arts uses the building for teaching and administration.",
+      "zh": "厄瓜多尔艺术大学在楼内开展教学及行政工作。"
+    },
+    "source": "https://www.uartes.edu.ec/sitio/la-universidad/la-universidad/campus/",
+    "hours": {
+      "es": "La fachada se observa desde la vía pública; para actividades interiores, revisa la agenda de la universidad.",
+      "en": "The façade is visible from public streets. Check the university calendar for indoor events.",
+      "zh": "从公共道路可看外观，室内活动请核对校方日程。"
+    },
+    "fare": {
+      "es": "La observación exterior es libre; consulta las condiciones de cada actividad anunciada.",
+      "en": "The exterior is freely visible. Check admission for individual events.",
+      "zh": "外观可免费参观，活动入场条件以各场公告为准。"
+    },
+    "tips": {
+      "es": "Planifica la fachada como parada breve y deja tiempo extra solo si tienes una actividad reservada.",
+      "en": "Plan a brief exterior stop, allowing additional time only for an event you have arranged.",
+      "zh": "可将外观安排为短停；如已约好校内活动，再另预留入场与活动时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "La antigua Gobernación del Guayas es hoy sede principal de la Universidad de las Artes. Su posición frente al malecón la integra al conjunto cívico de la ribera.",
+        "route": "Empieza por la fachada del malecón y gira hacia Francisco Aguirre para comparar el frente con el costado.",
+        "photoHint": "Desde la acera del malecón, busca el volumen completo sin ocupar el cruce.",
+        "question": "¿Se puede entrar como turista?",
+        "answer": "Es un campus activo. Consulta la agenda para identificar actividades con acceso público.",
+        "discovery": "La adaptación del edificio para la enseñanza muestra cómo un antiguo inmueble administrativo puede integrarse en un corredor de formación y exposiciones.",
+        "lastStep": "Continúa por Aguirre hasta Pichincha para enlazar con la Biblioteca de las Artes."
+      },
+      "en": {
+        "intro": "The former Guayas provincial government building is now the University of the Arts’ main campus. Facing the waterfront, it forms part of the civic ensemble along the river.",
+        "route": "Start with the waterfront façade and turn into Francisco Aguirre to compare the front and side elevations.",
+        "photoHint": "Try a full-building shot from the riverwalk sidewalk without blocking the crossing.",
+        "question": "Can tourists enter?",
+        "answer": "It is an active campus. Check the calendar for events specifically open to the public.",
+        "discovery": "Reuse for teaching illustrates how a former administrative building can become part of a corridor of arts education and exhibitions.",
+        "lastStep": "Follow Aguirre to Pichincha to continue to the Arts Library."
+      },
+      "zh": {
+        "intro": "旧瓜亚斯省政府大楼现为厄瓜多尔艺术大学的主校区。大楼面向滨河长廊，是江岸市政建筑群的一部分。",
+        "route": "先看朝向江岸的立面，再转入阿吉雷街，对照正面与侧面。",
+        "photoHint": "从滨河大道的人行道拍完整建筑，给过街行人留出通道。",
+        "question": "游客能进楼吗？",
+        "answer": "这里是正常使用的校区。请查校方日程，选择向公众开放的活动。",
+        "discovery": "旧行政楼转作教学空间，可借此了解历史建筑如何融入艺术教育和展览走廊。",
+        "lastStep": "沿阿吉雷街走到皮钦查街，接续参观艺术图书馆。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Edificio_de_la_Universidad_de_las_Artes.jpg",
+      "author": "LocoWiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el paseo del río, cruza por el paso señalizado más cercano a Francisco Aguirre.",
+      "en": "From the riverwalk, use the marked crossing nearest Francisco Aguirre.",
+      "zh": "从滨河步道走靠近弗朗西斯科·阿吉雷街的标示过街点。"
+    },
+    "related": [
+      "biblioteca-artes",
+      "plaza-administracion",
+      "palacio-municipal"
+    ],
+    "kind": "building",
+    "duration": "15–30"
+  },
+  {
+    "slug": "biblioteca-artes",
+    "names": {
+      "es": "Biblioteca de las Artes",
+      "en": "Arts Library",
+      "zh": "艺术图书馆"
+    },
+    "address": "Francisco Aguirre y Pichincha, Guayaquil",
+    "management": {
+      "es": "La Universidad de las Artes gestiona la biblioteca. Su sitio publica los horarios por sala y los servicios al público.",
+      "en": "The University of the Arts runs the library. Its website lists public services and opening hours by room.",
+      "zh": "由厄瓜多尔艺术大学管理，馆方网站列有各空间开放时间及公众服务。"
+    },
+    "source": "https://biblioteca.uartes.edu.ec/inicio/ayuda/horarios/",
+    "hours": {
+      "es": "Lunes 08:00–17:00; martes a viernes 08:00–18:00; sábados 09:00–17:00. Algunas salas tienen otro horario.",
+      "en": "Monday 08:00–17:00, Tuesday–Friday 08:00–18:00, Saturday 09:00–17:00. Individual rooms may differ.",
+      "zh": "周一 08:00–17:00，周二至周五 08:00–18:00，周六 09:00–17:00。部分空间时间不同。"
+    },
+    "fare": {
+      "es": "La biblioteca atiende al público general; consulta los requisitos de préstamo, archivo y actividades especiales.",
+      "en": "The library serves the general public. Check requirements for borrowing, archive use and special activities.",
+      "zh": "图书馆接待公众，借阅、档案查询及特别活动请核对各项条件。"
+    },
+    "tips": {
+      "es": "Decide antes si vas a consultar un archivo, recorrer las galerías o solo entrar a leer; cada opción requiere un tiempo distinto.",
+      "en": "Decide whether you are researching an archive, seeing a gallery or stopping to read, since each needs a different amount of time.",
+      "zh": "出发前先决定查档、看展或短时阅读，分别规划停留与到馆时间。"
+    },
+    "content": {
+      "es": {
+        "intro": "La biblioteca de la UArtes ocupa el antiguo Banco de Descuento, rehabilitado y abierto al público en 2019. Reúne lectura, consulta de fondos y espacios de exposición.",
+        "route": "Entra por la esquina y pregunta por la sala de lectura o el fondo que te interese.",
+        "photoHint": "Para el exterior, encuadra las dos fachadas desde la esquina opuesta; consulta antes de fotografiar dentro.",
+        "question": "¿Tiene el archivo el mismo horario que la biblioteca?",
+        "answer": "Consulta la tabla por espacio, en especial para el Fondo El Telégrafo y las galerías.",
+        "discovery": "El cambio de banco a biblioteca permite observar cómo un edificio comercial se convirtió en espacio público de lectura. Compara el acceso original de esquina con su uso actual.",
+        "lastStep": "Vuelve por Aguirre y continúa al malecón o a la antigua Gobernación."
+      },
+      "en": {
+        "intro": "The university’s library occupies the former Banco de Descuento, renovated and opened to the public in 2019. It combines reading rooms, research collections and exhibition spaces.",
+        "route": "Enter from the corner and ask for the reading room or collection you need.",
+        "photoHint": "For the exterior, frame both façades from the opposite corner. Ask before taking indoor photos.",
+        "question": "Does the archive keep the same hours as the library?",
+        "answer": "Check the room-by-room schedule, especially for the El Telégrafo collection and galleries.",
+        "discovery": "The conversion shows how a commercial building became a public reading space. Compare the original corner entrance with its present use.",
+        "lastStep": "Return on Aguirre toward the riverfront or the former governor’s building."
+      },
+      "zh": {
+        "intro": "厄瓜多尔艺术大学把旧贴现银行大楼改为图书馆，2019 年向公众开放。馆内设阅览、馆藏查询和展览空间。",
+        "route": "由街角入口入馆，向服务台咨询阅览室或所需馆藏。",
+        "photoHint": "在对面街角可拍到两侧立面，室内拍照前请先询问。",
+        "question": "档案室与图书馆同一时间开放吗？",
+        "answer": "请查分空间时间表，特别留意《电讯报》馆藏及各展厅。",
+        "discovery": "从银行转为图书馆后，旧商业建筑成为公众阅读空间。可对照原本的街角入口与当下的使用方式。",
+        "lastStep": "沿阿吉雷街返回，可接着去滨河长廊或旧省政府大楼。"
+      }
+    },
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fachada_de_la_Biblioteca_de_las_Artes.jpg",
+      "author": "Freddy eduardo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "transport": {
+      "es": "Desde el malecón, sigue una manzana por Francisco Aguirre hasta Pichincha.",
+      "en": "From the riverwalk, walk one block along Francisco Aguirre to Pichincha.",
+      "zh": "从滨河步道沿弗朗西斯科·阿吉雷街走一个街区，到皮钦查街交口。"
+    },
+    "related": [
+      "universidad-artes",
+      "plaza-administracion",
+      "calle-panama"
+    ],
+    "kind": "library",
+    "duration": "30–60"
+  }
+]

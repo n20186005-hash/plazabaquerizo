@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Cormorant_Garamond, DM_Sans } from "next/font/google";
+import { ThemeProvider } from "next-themes";
 import "../globals.css";
 
 const cormorant = Cormorant_Garamond({
@@ -105,22 +106,15 @@ export async function generateMetadata(
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
+  maximumScale: 1,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#faf8f5" },
+    { media: "(prefers-color-scheme: dark)", color: "#121212" },
+  ],
 };
 
 export function generateStaticParams() {
   return [{ locale: "es" }, { locale: "en" }, { locale: "zh" }];
-}
-
-import { generateSchema } from "../schema";
-
-function SchemaScript({ locale }: { locale: string }) {
-  const schema = generateSchema(locale);
-  return (
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-    />
-  );
 }
 
 export default async function RootLayout({
@@ -132,9 +126,12 @@ export default async function RootLayout({
 }>) {
   const { locale } = await params;
   return (
-    <html lang={locale} className={`${cormorant.variable} ${dmSans.variable}`}>
-      <SchemaScript locale={locale} />
-      <body>{children}</body>
+    <html lang={locale} suppressHydrationWarning className={`${cormorant.variable} ${dmSans.variable}`}>
+      <body className="antialiased">
+        <ThemeProvider attribute="data-theme" defaultTheme="system" enableSystem>
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   );
 }

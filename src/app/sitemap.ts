@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { locales, nearbyPath, nearbyPlaces } from '@/content/nearby';
 
 export const dynamic = 'force-static';
 
@@ -6,6 +7,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = `https://${process.env.CURRENT_SITE_DOMAIN || 'plazabaquerizo.com'}`;
 
   return [
+    ...nearbyPlaces.flatMap(({ slug }) => {
+      const languages = Object.fromEntries(locales.map(locale => [locale, baseUrl + nearbyPath(locale, slug)]));
+      return locales.map(locale => ({ url: languages[locale], alternates: { languages } }));
+    }),
     {
       url: `${baseUrl}/en`,
       lastModified: new Date(),
